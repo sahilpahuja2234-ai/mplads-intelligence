@@ -1,0 +1,209 @@
+{
+    "project": {
+        "project_id": "MPLADS-MH-2023-04521",
+        "mp": {
+            "mp_id": "MP-MH-014",
+            "name": "Smt. A. Deshmukh",
+            "house": "LOK_SABHA",
+            "state": "Maharashtra",
+            "constituency": "Nashik"
+        },
+        "location": {
+            "state": "Maharashtra",
+            "district": "Nashik",
+            "constituency_id": "PC-MH-014",
+            "latitude": 19.9975,
+            "longitude": 73.7898
+        },
+        "work_category": "DRINKING_WATER",
+        "work_description": "Installation of 4 solar-powered borewell hand pumps in Deolali Gram Panchayat",
+        "implementing_agency": "Nashik Zilla Parishad",
+        "executing_agency": "PWD Nashik Division",
+        "vendor": {
+            "vendor_id": "VEN-00231",
+            "name": "Shree Sai Constructions"
+        },
+        "financials": {
+            "sanctioned_amount": 1250000,
+            "estimated_cost": 1420000,
+            "released_amount": 1250000,
+            "expenditure_amount": 1180000,
+            "utilization_pct": 94.4
+        },
+        "timeline": {
+            "recommended_date": "2023-02-10",
+            "sanction_date": "2023-03-05",
+            "start_date": "2023-04-01",
+            "expected_completion_date": "2023-10-01",
+            "actual_completion_date": null
+        },
+        "status": "DELAYED",
+        "utilization_certificate_filed": false,
+        "risk": {
+            "risk_score": 78.4,
+            "risk_level": "HIGH",
+            "top_factors": [
+                "DELAY",
+                "PAYMENT_ANOMALY"
+            ]
+        },
+        "flags": {
+            "has_open_alerts": true,
+            "open_alert_count": 2,
+            "has_compliance_violation": true,
+            "in_duplicate_cluster": false
+        },
+        "created_at": "2023-02-11T09:12:00Z",
+        "updated_at": "2026-08-30T04:00:00Z"
+    },
+    "risk_breakdown": {
+        "risk_score": 78.4,
+        "risk_level": "HIGH",
+        "components": [
+            {
+                "factor": "DELAY",
+                "score": 82,
+                "weight": 0.20,
+                "explanation": "312 days past expected completion with no physical completion report filed."
+            },
+            {
+                "factor": "PAYMENT_ANOMALY",
+                "score": 74,
+                "weight": 0.15,
+                "explanation": "Installment 2 released 7 days after installment 1 with only 5% additional progress."
+            },
+            {
+                "factor": "COST_OVERRUN",
+                "score": 12,
+                "weight": 0.15,
+                "explanation": "Actual expenditure is within sanctioned limit; estimate deviation is 13.6% above peer benchmark."
+            },
+            {
+                "factor": "EXPENDITURE_ANOMALY",
+                "score": 68,
+                "weight": 0.15,
+                "explanation": "85% expenditure disbursed before 40% physical completion verified."
+            },
+            {
+                "factor": "COMPLIANCE_VIOLATION",
+                "score": 90,
+                "weight": 0.15,
+                "explanation": "Utilization certificate delinquent past 12-month statutory ceiling."
+            },
+            {
+                "factor": "DUPLICATE_PROJECT",
+                "score": 10,
+                "weight": 0.10,
+                "explanation": "No high-confidence duplicate work description cluster found."
+            },
+            {
+                "factor": "GEOGRAPHIC_ANOMALY",
+                "score": 25,
+                "weight": 0.05,
+                "explanation": "Coordinates match Deolali GP boundary, within expected GIS centroid threshold."
+            },
+            {
+                "factor": "SPENDING_PATTERN",
+                "score": 55,
+                "weight": 0.05,
+                "explanation": "Fiscal year-end release pattern detected across Q4 payment cycle."
+            }
+        ]
+    },
+    "open_alerts": [
+        {
+            "alert_id": "ALT-000452",
+            "project_id": "MPLADS-MH-2023-04521",
+            "project_title": "Solar borewell hand pumps — Deolali GP",
+            "alert_type": "PAYMENT_ANOMALY",
+            "severity": "HIGH",
+            "status": "OPEN",
+            "title": "Payment released before milestone verification",
+            "description": "Installment 2 (₹7,80,000) disbursed 7 days after installment 1 with only 5% additional physical progress reported.",
+            "evidence": {
+                "installment_1_date": "2023-04-15",
+                "installment_2_date": "2023-04-22",
+                "days_between": 7,
+                "progress_delta_pct": 5,
+                "expected_min_days_between": 45
+            },
+            "detected_at": "2026-08-20T06:00:00Z"
+        },
+        {
+            "alert_id": "ALT-000453",
+            "project_id": "MPLADS-MH-2023-04521",
+            "project_title": "Solar borewell hand pumps — Deolali GP",
+            "alert_type": "DELAY",
+            "severity": "HIGH",
+            "status": "OPEN",
+            "title": "Critical completion delay exceeding 300 days",
+            "description": "Expected completion was 2023-10-01. Project is currently 312 days overdue with no physical completion milestone submitted.",
+            "evidence": {
+                "expected_date": "2023-10-01",
+                "days_overdue": 312,
+                "reported_progress_pct": 35
+            },
+            "detected_at": "2026-08-22T08:30:00Z"
+        }
+    ],
+    "compliance_violations": [
+        {
+            "violation_id": "VIO-000109",
+            "project_id": "MPLADS-MH-2023-04521",
+            "rule_id": "RULE-UC-01",
+            "rule_title": "Utilization Certificate Deadline Exceeded",
+            "category": "UTILIZATION_CERTIFICATE",
+            "status": "OPEN",
+            "detected_at": "2024-04-01T00:00:00Z",
+            "details": "UC for Installment 1 (₹4,00,000) not submitted within mandatory 12 months of release date."
+        }
+    ],
+    "related_projects": {
+        "same_vendor": [
+            {
+                "project_id": "MPLADS-MH-2023-08812",
+                "mp_name": "Smt. A. Deshmukh",
+                "state": "Maharashtra",
+                "district": "Nashik",
+                "work_category": "DRINKING_WATER",
+                "sanctioned_amount": 1500000,
+                "expenditure_amount": 1450000,
+                "status": "DELAYED",
+                "risk_score": 64.2,
+                "risk_level": "HIGH",
+                "open_alert_count": 1
+            }
+        ],
+        "same_mp": [
+            {
+                "project_id": "MPLADS-MH-2024-01044",
+                "mp_name": "Smt. A. Deshmukh",
+                "state": "Maharashtra",
+                "district": "Nashik",
+                "work_category": "ROADS",
+                "sanctioned_amount": 2500000,
+                "expenditure_amount": 1800000,
+                "status": "IN_PROGRESS",
+                "risk_score": 28.0,
+                "risk_level": "LOW",
+                "open_alert_count": 0
+            }
+        ],
+        "same_constituency": [
+            {
+                "project_id": "MPLADS-MH-2023-03310",
+                "mp_name": "Smt. A. Deshmukh",
+                "state": "Maharashtra",
+                "district": "Nashik",
+                "work_category": "HEALTH",
+                "sanctioned_amount": 3000000,
+                "expenditure_amount": 3000000,
+                "status": "COMPLETED",
+                "risk_score": 12.5,
+                "risk_level": "LOW",
+                "open_alert_count": 0
+            }
+        ]
+    },
+    "duplicate_cluster": null
+}
