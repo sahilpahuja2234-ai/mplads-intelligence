@@ -1,0 +1,17 @@
+{
+  "period": "monthly",
+  "points": [
+    { "label": "2025-10", "sanctioned_amount": 512000000, "expenditure_amount": 470000000, "new_alerts": 24 },
+    { "label": "2025-11", "sanctioned_amount": 498000000, "expenditure_amount": 455000000, "new_alerts": 31 },
+    { "label": "2025-12", "sanctioned_amount": 543000000, "expenditure_amount": 520000000, "new_alerts": 19 },
+    { "label": "2026-01", "sanctioned_amount": 477000000, "expenditure_amount": 412000000, "new_alerts": 28 },
+    { "label": "2026-02", "sanctioned_amount": 521000000, "expenditure_amount": 480000000, "new_alerts": 22 },
+    { "label": "2026-03", "sanctioned_amount": 689000000, "expenditure_amount": 661000000, "new_alerts": 47 },
+    { "label": "2026-04", "sanctioned_amount": 445000000, "expenditure_amount": 390000000, "new_alerts": 18 },
+    { "label": "2026-05", "sanctioned_amount": 502000000, "expenditure_amount": 465000000, "new_alerts": 26 },
+    { "label": "2026-06", "sanctioned_amount": 488000000, "expenditure_amount": 440000000, "new_alerts": 33 },
+    { "label": "2026-07", "sanctioned_amount": 531000000, "expenditure_amount": 495000000, "new_alerts": 21 },
+    { "label": "2026-08", "sanctioned_amount": 519000000, "expenditure_amount": 482000000, "new_alerts": 29 },
+    { "label": "2026-09", "sanctioned_amount": 460000000, "expenditure_amount": 360000000, "new_alerts": 14 }
+  ]
+}

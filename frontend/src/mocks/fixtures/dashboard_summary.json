@@ -1,0 +1,25 @@
+{
+  "total_projects": 5432,
+  "total_sanctioned_amount": 6785000000,
+  "total_released_amount": 6120000000,
+  "total_expenditure_amount": 5430000000,
+  "utilization_pct": 88.7,
+  "status_breakdown": {
+    "COMPLETED": 3201,
+    "IN_PROGRESS": 1450,
+    "DELAYED": 612,
+    "ABANDONED": 89,
+    "RECOMMENDED": 80,
+    "SANCTIONED": 0,
+    "ON_HOLD": 0
+  },
+  "risk_breakdown": {
+    "LOW": 3900,
+    "MEDIUM": 980,
+    "HIGH": 420,
+    "CRITICAL": 132
+  },
+  "open_alerts": 287,
+  "open_compliance_violations": 94,
+  "avg_risk_score": 24.6
+}

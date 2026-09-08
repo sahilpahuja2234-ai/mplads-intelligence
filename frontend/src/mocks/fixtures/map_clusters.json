@@ -1,0 +1,28 @@
+{
+  "clusters": [
+    {
+      "cluster_id": "GEO-0004",
+      "centroid": { "latitude": 25.601, "longitude": 85.104 },
+      "radius_meters": 120,
+      "project_count": 9,
+      "reason": "9 projects registered within 120m radius across 3 different MPs — unusually dense for rural coordinates.",
+      "project_ids": ["MPLADS-BR-2024-0091", "MPLADS-BR-2024-0215", "MPLADS-BR-2023-1812"]
+    },
+    {
+      "cluster_id": "GEO-0011",
+      "centroid": { "latitude": 19.9950, "longitude": 73.7880 },
+      "radius_meters": 200,
+      "project_count": 4,
+      "reason": "4 projects within 200m radius all sanctioned by same MP in same month — potential duplicate registration.",
+      "project_ids": ["MPLADS-MH-2023-04521", "MPLADS-MH-2024-06012"]
+    },
+    {
+      "cluster_id": "GEO-0021",
+      "centroid": { "latitude": 25.244, "longitude": 86.984 },
+      "radius_meters": 80,
+      "project_count": 3,
+      "reason": "3 projects within 80m with near-identical work descriptions and same vendor — high duplicate probability.",
+      "project_ids": ["MPLADS-BR-2024-0551"]
+    }
+  ]
+}

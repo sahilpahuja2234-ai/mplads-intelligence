@@ -1,0 +1,14 @@
+{
+  "states": [
+    { "state": "Maharashtra",    "total_projects": 612, "avg_risk_score": 22.1, "total_sanctioned_amount": 765000000 },
+    { "state": "Bihar",          "total_projects": 543, "avg_risk_score": 38.9, "total_sanctioned_amount": 620000000 },
+    { "state": "Uttar Pradesh",  "total_projects": 711, "avg_risk_score": 35.4, "total_sanctioned_amount": 892000000 },
+    { "state": "Rajasthan",      "total_projects": 489, "avg_risk_score": 28.2, "total_sanctioned_amount": 580000000 },
+    { "state": "Madhya Pradesh", "total_projects": 534, "avg_risk_score": 31.6, "total_sanctioned_amount": 640000000 },
+    { "state": "Tamil Nadu",     "total_projects": 421, "avg_risk_score": 19.3, "total_sanctioned_amount": 498000000 },
+    { "state": "Karnataka",      "total_projects": 388, "avg_risk_score": 23.7, "total_sanctioned_amount": 462000000 },
+    { "state": "Gujarat",        "total_projects": 362, "avg_risk_score": 25.1, "total_sanctioned_amount": 430000000 },
+    { "state": "West Bengal",    "total_projects": 441, "avg_risk_score": 33.8, "total_sanctioned_amount": 520000000 },
+    { "state": "Odisha",         "total_projects": 298, "avg_risk_score": 29.4, "total_sanctioned_amount": 354000000 }
+  ]
+}

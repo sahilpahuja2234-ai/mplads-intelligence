@@ -1,0 +1,30 @@
+{
+  "points": [
+    { "project_id": "MPLADS-MH-2023-04521", "latitude": 19.9975, "longitude": 73.7898, "status": "DELAYED",      "risk_level": "HIGH",     "sanctioned_amount": 1250000 },
+    { "project_id": "MPLADS-BR-2024-0091",  "latitude": 25.6010, "longitude": 85.1040, "status": "COMPLETED",   "risk_level": "CRITICAL", "sanctioned_amount": 2500000 },
+    { "project_id": "MPLADS-UP-2024-01187", "latitude": 25.3176, "longitude": 82.9739, "status": "DELAYED",     "risk_level": "HIGH",     "sanctioned_amount": 4500000 },
+    { "project_id": "MPLADS-RJ-2023-00812", "latitude": 26.9124, "longitude": 75.7873, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 3200000 },
+    { "project_id": "MPLADS-TN-2024-00334", "latitude": 11.0168, "longitude": 76.9558, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 2800000 },
+    { "project_id": "MPLADS-KA-2023-01422", "latitude": 12.2958, "longitude": 76.6394, "status": "IN_PROGRESS", "risk_level": "MEDIUM",   "sanctioned_amount": 5000000 },
+    { "project_id": "MPLADS-GJ-2024-00698", "latitude": 23.0225, "longitude": 72.5714, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 1800000 },
+    { "project_id": "MPLADS-WB-2024-00291", "latitude": 22.5726, "longitude": 88.3639, "status": "IN_PROGRESS", "risk_level": "HIGH",     "sanctioned_amount": 4200000 },
+    { "project_id": "MPLADS-MP-2023-02109", "latitude": 23.2599, "longitude": 77.4126, "status": "COMPLETED",   "risk_level": "HIGH",     "sanctioned_amount": 3600000 },
+    { "project_id": "MPLADS-BR-2024-0215",  "latitude": 24.7914, "longitude": 84.9994, "status": "DELAYED",     "risk_level": "CRITICAL", "sanctioned_amount": 4800000 },
+    { "project_id": "MPLADS-UP-2023-00881", "latitude": 26.8467, "longitude": 80.9462, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 2200000 },
+    { "project_id": "MPLADS-MH-2024-06012", "latitude": 19.0760, "longitude": 72.8777, "status": "COMPLETED",   "risk_level": "MEDIUM",   "sanctioned_amount": 5000000 },
+    { "project_id": "MPLADS-OD-2024-00543", "latitude": 20.2961, "longitude": 85.8245, "status": "IN_PROGRESS", "risk_level": "LOW",      "sanctioned_amount": 3100000 },
+    { "project_id": "MPLADS-RJ-2024-01044", "latitude": 26.2389, "longitude": 73.0243, "status": "IN_PROGRESS", "risk_level": "MEDIUM",   "sanctioned_amount": 2000000 },
+    { "project_id": "MPLADS-TN-2023-00811", "latitude": 13.0827, "longitude": 80.2707, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 1500000 },
+    { "project_id": "MPLADS-KA-2024-02091", "latitude": 12.9716, "longitude": 77.5946, "status": "IN_PROGRESS", "risk_level": "MEDIUM",   "sanctioned_amount": 1700000 },
+    { "project_id": "MPLADS-BR-2023-1812",  "latitude": 26.1209, "longitude": 85.3647, "status": "COMPLETED",   "risk_level": "CRITICAL", "sanctioned_amount": 2600000 },
+    { "project_id": "MPLADS-GJ-2023-00411", "latitude": 22.3072, "longitude": 73.1812, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 4000000 },
+    { "project_id": "MPLADS-WB-2023-01108", "latitude": 22.5958, "longitude": 88.2636, "status": "DELAYED",     "risk_level": "HIGH",     "sanctioned_amount": 1900000 },
+    { "project_id": "MPLADS-MP-2024-03311", "latitude": 22.7196, "longitude": 75.8577, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 3300000 },
+    { "project_id": "MPLADS-UP-2024-02319", "latitude": 27.1767, "longitude": 78.0081, "status": "ON_HOLD",     "risk_level": "MEDIUM",   "sanctioned_amount": 4100000 },
+    { "project_id": "MPLADS-MH-2022-03104", "latitude": 18.5204, "longitude": 73.8567, "status": "ABANDONED",   "risk_level": "CRITICAL", "sanctioned_amount": 2750000 },
+    { "project_id": "MPLADS-OD-2023-00219", "latitude": 20.4625, "longitude": 85.8828, "status": "COMPLETED",   "risk_level": "LOW",      "sanctioned_amount": 2100000 },
+    { "project_id": "MPLADS-BR-2024-0551",  "latitude": 25.2440, "longitude": 86.9842, "status": "COMPLETED",   "risk_level": "CRITICAL", "sanctioned_amount": 3800000 },
+    { "project_id": "MPLADS-RJ-2024-00722", "latitude": 24.5854, "longitude": 73.7125, "status": "IN_PROGRESS", "risk_level": "MEDIUM",   "sanctioned_amount": 5000000 }
+  ],
+  "total_returned": 25
+}
