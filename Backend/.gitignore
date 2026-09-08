@@ -1,0 +1,71 @@
+# ===================================================================
+# .gitignore — Dev 1 (Backend: FastAPI, database, data pipeline, ML engine)
+# Place at mplads-ai-system/backend/.gitignore
+# ===================================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- SQLite database ---
+# Per ARCHITECTURE.md §1: generated + gitignored, load_seed.py /
+# transform_real_data.py recreate it. Never commit real or synthetic DB state.
+mplads.db
+*.db-journal
+*.sqlite3
+
+# --- Data pipeline derived output ---
+# Regenerable by re-running transform_real_data.py — don't commit stale
+# derived artifacts (e.g. the mp_allocated_limits.csv sidecar).
+data_pipeline/derived/
+
+# --- ML artifacts (local experimentation, not checked in) ---
+*.pkl
+*.joblib
+*.h5
+model_cache/
+mlruns/
+
+# --- Test / coverage / type-check caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# --- Logs ---
+*.log
+logs/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter (if used for ML/feature exploration) ---
+.ipynb_checkpoints/

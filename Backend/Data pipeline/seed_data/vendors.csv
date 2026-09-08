@@ -1,0 +1,901 @@
+vendor_id,name,registration_no,state,total_projects_handled,flagged_before
+VEN-00001,Reliable Builders,REG-UP-227804,Uttar Pradesh,8,False
+VEN-00002,Shree Sai Enterprises,REG-AS-393423,Assam,3,False
+VEN-00003,Om Works & Co,REG-OD-639919,Odisha,302,True
+VEN-00004,Laxmi Engineering Works,REG-JH-673916,Jharkhand,4,False
+VEN-00005,Star Infra Projects,REG-UP-359611,Uttar Pradesh,3,False
+VEN-00006,Bharat Contractors,REG-AP-655228,Andhra Pradesh,7,False
+VEN-00007,Shakti Infra Projects,REG-PB-559185,Punjab,8,False
+VEN-00008,Prime Works & Co,REG-HR-898346,Haryana,6,False
+VEN-00009,Shakti Contractors,REG-KL-903574,Kerala,7,False
+VEN-00010,National Works & Co,REG-BR-274262,Bihar,3,False
+VEN-00011,Green Valley Constructions,REG-OD-118282,Odisha,5,False
+VEN-00012,Sundar Engineering Works,REG-RJ-256485,Rajasthan,7,False
+VEN-00013,Vishwakarma Enterprises,REG-KA-431913,Karnataka,4,False
+VEN-00014,Silver Line Constructions,REG-RJ-560949,Rajasthan,3,False
+VEN-00015,Vishwakarma Builders,REG-BR-379679,Bihar,2,False
+VEN-00016,Golden Engineering Works,REG-MP-644263,Madhya Pradesh,7,False
+VEN-00017,Elite Developers,REG-AS-360663,Assam,1,False
+VEN-00018,Reliable Constructions,REG-KL-146799,Kerala,6,False
+VEN-00019,Reliable Associates,REG-KL-589453,Kerala,3,False
+VEN-00020,Vishwakarma Engineering Works,REG-WB-352072,West Bengal,7,False
+VEN-00021,Ganesh Infra Projects,REG-KL-979124,Kerala,9,False
+VEN-00022,Jai Bharat Associates,REG-UP-366356,Uttar Pradesh,10,False
+VEN-00023,Ananya Constructions,REG-MH-839045,Maharashtra,6,False
+VEN-00024,Bharat Developers,REG-OD-232988,Odisha,3,False
+VEN-00025,Krishna Contractors,REG-CG-935709,Chhattisgarh,8,True
+VEN-00026,Om Enterprises,REG-OD-902473,Odisha,6,False
+VEN-00027,Bharat Engineering Works,REG-MP-164018,Madhya Pradesh,2,False
+VEN-00028,Krishna Enterprises,REG-CG-720094,Chhattisgarh,4,False
+VEN-00029,Star Engineering Works,REG-GJ-626561,Gujarat,316,True
+VEN-00030,Krishna Enterprises,REG-BR-622385,Bihar,7,False
+VEN-00031,Jai Bharat Builders,REG-GJ-675057,Gujarat,12,False
+VEN-00032,Prime Constructions,REG-PB-272380,Punjab,9,False
+VEN-00033,Prime Works & Co,REG-GJ-254488,Gujarat,6,False
+VEN-00034,Krishna Associates,REG-TG-271937,Telangana,5,False
+VEN-00035,Divya Works & Co,REG-KL-517891,Kerala,4,False
+VEN-00036,Laxmi Builders,REG-KA-893665,Karnataka,5,False
+VEN-00037,Elite Infra Projects,REG-OD-864152,Odisha,8,False
+VEN-00038,Golden Builders,REG-OD-979189,Odisha,9,False
+VEN-00039,Trust Constructions,REG-KA-652603,Karnataka,9,False
+VEN-00040,Shakti Contractors,REG-RJ-834149,Rajasthan,6,False
+VEN-00041,Shree Sai Contractors,REG-JH-567918,Jharkhand,3,False
+VEN-00042,National Enterprises,REG-PB-792343,Punjab,4,False
+VEN-00043,Ganesh Builders,REG-AS-383986,Assam,3,False
+VEN-00044,Reliable Works & Co,REG-MP-630222,Madhya Pradesh,3,False
+VEN-00045,Reliable Infra Projects,REG-JH-381587,Jharkhand,4,False
+VEN-00046,Vishwakarma Enterprises,REG-AP-348790,Andhra Pradesh,7,False
+VEN-00047,Silver Line Associates,REG-KL-561825,Kerala,3,False
+VEN-00048,Star Constructions,REG-TG-313608,Telangana,5,False
+VEN-00049,Bharat Builders,REG-MP-605021,Madhya Pradesh,5,False
+VEN-00050,Bharat Contractors,REG-CG-913887,Chhattisgarh,4,False
+VEN-00051,Laxmi Infra Projects,REG-RJ-971327,Rajasthan,4,False
+VEN-00052,Elite Associates,REG-RJ-307112,Rajasthan,6,False
+VEN-00053,Krishna Builders,REG-WB-484994,West Bengal,3,False
+VEN-00054,New Age Builders,REG-AP-231241,Andhra Pradesh,5,False
+VEN-00055,Silver Line Contractors,REG-UP-853379,Uttar Pradesh,6,False
+VEN-00056,Trust Developers,REG-TN-134902,Tamil Nadu,6,False
+VEN-00057,Krishna Works & Co,REG-BR-147349,Bihar,1,False
+VEN-00058,Krishna Infra Projects,REG-KL-109564,Kerala,7,False
+VEN-00059,Om Infra Projects,REG-MH-179523,Maharashtra,3,False
+VEN-00060,Prime Engineering Works,REG-WB-205868,West Bengal,8,False
+VEN-00061,Shakti Constructions,REG-TG-796487,Telangana,7,False
+VEN-00062,Divya Infra Projects,REG-OD-944230,Odisha,5,False
+VEN-00063,Shree Sai Developers,REG-RJ-146923,Rajasthan,5,False
+VEN-00064,Divya Contractors,REG-GJ-575078,Gujarat,6,False
+VEN-00065,Shakti Engineering Works,REG-MH-271411,Maharashtra,5,False
+VEN-00066,Ananya Infra Projects,REG-JH-301972,Jharkhand,7,False
+VEN-00067,Star Developers,REG-WB-896742,West Bengal,5,False
+VEN-00068,Sundar Constructions,REG-RJ-809916,Rajasthan,4,False
+VEN-00069,Shree Sai Builders,REG-WB-438182,West Bengal,4,False
+VEN-00070,Vishwakarma Infra Projects,REG-WB-569573,West Bengal,7,False
+VEN-00071,Ananya Engineering Works,REG-AP-641175,Andhra Pradesh,7,False
+VEN-00072,Laxmi Works & Co,REG-UP-421359,Uttar Pradesh,8,False
+VEN-00073,Elite Builders,REG-JH-306823,Jharkhand,3,False
+VEN-00074,Shree Sai Infrastructure Ltd,REG-MH-711361,Maharashtra,3,False
+VEN-00075,Ganesh Infrastructure Ltd,REG-AP-544998,Andhra Pradesh,31,True
+VEN-00076,Om Developers,REG-GJ-123598,Gujarat,3,False
+VEN-00077,Ananya Infrastructure Ltd,REG-CG-629561,Chhattisgarh,4,False
+VEN-00078,Laxmi Builders,REG-JH-267743,Jharkhand,7,False
+VEN-00079,Green Valley Engineering Works,REG-PB-484238,Punjab,3,False
+VEN-00080,Krishna Works & Co,REG-TN-268561,Tamil Nadu,4,False
+VEN-00081,Divya Enterprises,REG-CG-670966,Chhattisgarh,3,False
+VEN-00082,National Infra Projects,REG-AS-956826,Assam,3,False
+VEN-00083,Shakti Builders,REG-KL-286201,Kerala,5,False
+VEN-00084,National Enterprises,REG-KL-458847,Kerala,30,True
+VEN-00085,Laxmi Infrastructure Ltd,REG-MH-182190,Maharashtra,6,False
+VEN-00086,Ananya Infrastructure Ltd,REG-MH-606008,Maharashtra,2,False
+VEN-00087,Ganesh Developers,REG-OD-474091,Odisha,4,False
+VEN-00088,National Enterprises,REG-RJ-776281,Rajasthan,4,False
+VEN-00089,Prime Enterprises,REG-HR-379083,Haryana,3,False
+VEN-00090,Metro Associates,REG-TN-607517,Tamil Nadu,3,False
+VEN-00091,Divya Enterprises,REG-AP-386136,Andhra Pradesh,3,False
+VEN-00092,Laxmi Enterprises,REG-AS-936183,Assam,6,False
+VEN-00093,Green Valley Constructions,REG-AP-523069,Andhra Pradesh,2,False
+VEN-00094,Star Infra Projects,REG-PB-984385,Punjab,2,False
+VEN-00095,Star Engineering Works,REG-TN-474529,Tamil Nadu,3,False
+VEN-00096,Jai Bharat Contractors,REG-TG-759660,Telangana,7,False
+VEN-00097,Krishna Associates,REG-RJ-860514,Rajasthan,6,False
+VEN-00098,Shree Sai Enterprises,REG-KA-833361,Karnataka,5,False
+VEN-00099,Divya Engineering Works,REG-MH-330420,Maharashtra,3,False
+VEN-00100,Divya Infrastructure Ltd,REG-TN-322241,Tamil Nadu,7,False
+VEN-00101,Star Infrastructure Ltd,REG-PB-971282,Punjab,7,False
+VEN-00102,Laxmi Infrastructure Ltd,REG-GJ-265774,Gujarat,3,False
+VEN-00103,Laxmi Developers,REG-UP-354729,Uttar Pradesh,4,False
+VEN-00104,Golden Enterprises,REG-KA-962932,Karnataka,5,False
+VEN-00105,Green Valley Works & Co,REG-AS-605065,Assam,3,False
+VEN-00106,Krishna Contractors,REG-UP-203885,Uttar Pradesh,7,False
+VEN-00107,Shree Sai Builders,REG-TN-838332,Tamil Nadu,8,False
+VEN-00108,Elite Works & Co,REG-CG-585421,Chhattisgarh,3,False
+VEN-00109,National Associates,REG-JH-195097,Jharkhand,5,False
+VEN-00110,Bharat Enterprises,REG-CG-316019,Chhattisgarh,5,False
+VEN-00111,Silver Line Infra Projects,REG-TG-299133,Telangana,8,False
+VEN-00112,Sundar Associates,REG-HR-967442,Haryana,6,False
+VEN-00113,Vishwakarma Enterprises,REG-AP-391438,Andhra Pradesh,6,False
+VEN-00114,Star Constructions,REG-WB-511614,West Bengal,5,False
+VEN-00115,Metro Builders,REG-GJ-438463,Gujarat,5,False
+VEN-00116,Golden Infra Projects,REG-MP-450341,Madhya Pradesh,3,False
+VEN-00117,Prime Builders,REG-UP-260017,Uttar Pradesh,4,False
+VEN-00118,Green Valley Infrastructure Ltd,REG-AP-647542,Andhra Pradesh,7,False
+VEN-00119,Trust Enterprises,REG-KA-575194,Karnataka,3,False
+VEN-00120,Ananya Associates,REG-HR-212475,Haryana,8,False
+VEN-00121,Vishwakarma Contractors,REG-PB-358843,Punjab,320,True
+VEN-00122,Metro Contractors,REG-JH-873947,Jharkhand,5,False
+VEN-00123,Elite Enterprises,REG-WB-837997,West Bengal,4,False
+VEN-00124,Green Valley Works & Co,REG-KL-545244,Kerala,4,False
+VEN-00125,Green Valley Infra Projects,REG-WB-544899,West Bengal,7,False
+VEN-00126,Bharat Infra Projects,REG-MH-252925,Maharashtra,10,False
+VEN-00127,Bharat Contractors,REG-OD-522443,Odisha,3,False
+VEN-00128,Shakti Builders,REG-WB-333617,West Bengal,4,False
+VEN-00129,Golden Contractors,REG-MP-549693,Madhya Pradesh,9,False
+VEN-00130,Ananya Infrastructure Ltd,REG-UP-267256,Uttar Pradesh,3,False
+VEN-00131,Elite Infrastructure Ltd,REG-MP-740493,Madhya Pradesh,2,False
+VEN-00132,Reliable Engineering Works,REG-KL-132464,Kerala,6,False
+VEN-00133,Vishwakarma Associates,REG-RJ-666235,Rajasthan,299,True
+VEN-00134,Jai Bharat Developers,REG-WB-628811,West Bengal,7,False
+VEN-00135,Vishwakarma Engineering Works,REG-CG-128810,Chhattisgarh,5,False
+VEN-00136,Star Constructions,REG-CG-671705,Chhattisgarh,7,False
+VEN-00137,Shree Sai Engineering Works,REG-HR-329070,Haryana,2,False
+VEN-00138,Trust Engineering Works,REG-HR-641227,Haryana,4,False
+VEN-00139,Golden Works & Co,REG-MP-981997,Madhya Pradesh,6,False
+VEN-00140,United Enterprises,REG-CG-579422,Chhattisgarh,6,False
+VEN-00141,Shree Sai Constructions,REG-RJ-164031,Rajasthan,5,False
+VEN-00142,Star Engineering Works,REG-AP-430166,Andhra Pradesh,6,False
+VEN-00143,New Age Works & Co,REG-MH-317884,Maharashtra,5,False
+VEN-00144,United Engineering Works,REG-PB-545535,Punjab,4,False
+VEN-00145,Reliable Infrastructure Ltd,REG-BR-187769,Bihar,2,False
+VEN-00146,Elite Infrastructure Ltd,REG-AP-952594,Andhra Pradesh,2,False
+VEN-00147,Divya Works & Co,REG-PB-740023,Punjab,4,False
+VEN-00148,Green Valley Infra Projects,REG-KA-232105,Karnataka,6,False
+VEN-00149,Bharat Works & Co,REG-TN-645576,Tamil Nadu,3,False
+VEN-00150,Reliable Infrastructure Ltd,REG-JH-483993,Jharkhand,4,False
+VEN-00151,Divya Constructions,REG-KL-236703,Kerala,10,False
+VEN-00152,Ganesh Works & Co,REG-OD-368559,Odisha,6,False
+VEN-00153,Metro Builders,REG-UP-778880,Uttar Pradesh,4,False
+VEN-00154,Krishna Engineering Works,REG-OD-980389,Odisha,3,False
+VEN-00155,Elite Infrastructure Ltd,REG-MH-289522,Maharashtra,8,False
+VEN-00156,Star Infra Projects,REG-TG-463923,Telangana,0,False
+VEN-00157,United Associates,REG-AS-292375,Assam,6,False
+VEN-00158,Sundar Constructions,REG-AS-765183,Assam,5,False
+VEN-00159,Star Builders,REG-KA-980614,Karnataka,3,False
+VEN-00160,Jai Bharat Developers,REG-TN-630622,Tamil Nadu,5,False
+VEN-00161,Metro Works & Co,REG-MP-312668,Madhya Pradesh,5,False
+VEN-00162,New Age Constructions,REG-RJ-303972,Rajasthan,7,False
+VEN-00163,Silver Line Works & Co,REG-WB-733145,West Bengal,9,False
+VEN-00164,Silver Line Infrastructure Ltd,REG-JH-796774,Jharkhand,4,False
+VEN-00165,Laxmi Associates,REG-OD-518403,Odisha,7,False
+VEN-00166,Shree Sai Builders,REG-PB-675723,Punjab,4,False
+VEN-00167,Green Valley Works & Co,REG-PB-355812,Punjab,4,False
+VEN-00168,Shakti Constructions,REG-GJ-219294,Gujarat,5,False
+VEN-00169,Laxmi Works & Co,REG-PB-364687,Punjab,5,False
+VEN-00170,Silver Line Associates,REG-MP-414467,Madhya Pradesh,2,False
+VEN-00171,New Age Engineering Works,REG-JH-666778,Jharkhand,6,False
+VEN-00172,Ananya Constructions,REG-OD-606195,Odisha,10,False
+VEN-00173,National Contractors,REG-GJ-592488,Gujarat,2,False
+VEN-00174,United Constructions,REG-HR-291135,Haryana,4,False
+VEN-00175,Star Associates,REG-UP-338741,Uttar Pradesh,11,False
+VEN-00176,Metro Associates,REG-TN-757615,Tamil Nadu,1,False
+VEN-00177,Krishna Contractors,REG-MP-473453,Madhya Pradesh,5,False
+VEN-00178,Vishwakarma Associates,REG-AS-489388,Assam,8,False
+VEN-00179,Sundar Associates,REG-WB-769145,West Bengal,8,False
+VEN-00180,Vishwakarma Constructions,REG-MH-423721,Maharashtra,340,True
+VEN-00181,Silver Line Engineering Works,REG-WB-595834,West Bengal,7,False
+VEN-00182,Divya Enterprises,REG-KA-824116,Karnataka,6,False
+VEN-00183,United Infra Projects,REG-OD-331512,Odisha,6,False
+VEN-00184,Laxmi Infrastructure Ltd,REG-MP-633135,Madhya Pradesh,7,False
+VEN-00185,New Age Builders,REG-UP-917404,Uttar Pradesh,3,False
+VEN-00186,United Infra Projects,REG-BR-871564,Bihar,3,False
+VEN-00187,Vishwakarma Developers,REG-RJ-653191,Rajasthan,3,False
+VEN-00188,United Constructions,REG-AP-849727,Andhra Pradesh,3,False
+VEN-00189,Laxmi Works & Co,REG-MH-974427,Maharashtra,2,False
+VEN-00190,Krishna Engineering Works,REG-PB-598860,Punjab,5,False
+VEN-00191,Shree Sai Infrastructure Ltd,REG-AS-424670,Assam,10,False
+VEN-00192,United Infrastructure Ltd,REG-RJ-612323,Rajasthan,3,False
+VEN-00193,Green Valley Contractors,REG-TG-765346,Telangana,6,False
+VEN-00194,National Infra Projects,REG-GJ-444654,Gujarat,3,False
+VEN-00195,Jai Bharat Developers,REG-TN-374036,Tamil Nadu,7,False
+VEN-00196,National Builders,REG-KL-161553,Kerala,5,False
+VEN-00197,Elite Infra Projects,REG-CG-437203,Chhattisgarh,4,False
+VEN-00198,Vishwakarma Infra Projects,REG-JH-798905,Jharkhand,4,False
+VEN-00199,Divya Enterprises,REG-RJ-217962,Rajasthan,1,False
+VEN-00200,Trust Enterprises,REG-AP-947183,Andhra Pradesh,6,False
+VEN-00201,Vishwakarma Associates,REG-AP-820608,Andhra Pradesh,4,False
+VEN-00202,Jai Bharat Infrastructure Ltd,REG-GJ-802620,Gujarat,6,False
+VEN-00203,Jai Bharat Developers,REG-UP-349846,Uttar Pradesh,8,False
+VEN-00204,Krishna Infrastructure Ltd,REG-CG-699514,Chhattisgarh,3,False
+VEN-00205,Shakti Constructions,REG-CG-291572,Chhattisgarh,7,False
+VEN-00206,Green Valley Developers,REG-AP-576435,Andhra Pradesh,5,False
+VEN-00207,Divya Builders,REG-TG-338392,Telangana,5,False
+VEN-00208,National Contractors,REG-OD-655374,Odisha,2,False
+VEN-00209,Star Enterprises,REG-TN-742734,Tamil Nadu,2,False
+VEN-00210,Bharat Engineering Works,REG-BR-109084,Bihar,5,False
+VEN-00211,New Age Enterprises,REG-OD-514900,Odisha,9,False
+VEN-00212,United Associates,REG-PB-224354,Punjab,5,False
+VEN-00213,United Works & Co,REG-OD-346402,Odisha,6,False
+VEN-00214,Vishwakarma Enterprises,REG-JH-295240,Jharkhand,7,False
+VEN-00215,Green Valley Infra Projects,REG-PB-991903,Punjab,11,False
+VEN-00216,Metro Engineering Works,REG-AP-169967,Andhra Pradesh,7,False
+VEN-00217,New Age Contractors,REG-UP-761929,Uttar Pradesh,5,False
+VEN-00218,Om Contractors,REG-BR-228005,Bihar,9,False
+VEN-00219,Divya Constructions,REG-BR-913103,Bihar,3,False
+VEN-00220,Ananya Builders,REG-UP-539190,Uttar Pradesh,4,False
+VEN-00221,Trust Works & Co,REG-KL-296764,Kerala,8,False
+VEN-00222,Ananya Associates,REG-RJ-817597,Rajasthan,4,False
+VEN-00223,United Associates,REG-TN-977517,Tamil Nadu,3,False
+VEN-00224,Om Works & Co,REG-KA-790191,Karnataka,6,False
+VEN-00225,Metro Enterprises,REG-HR-589570,Haryana,10,False
+VEN-00226,National Enterprises,REG-PB-725326,Punjab,2,False
+VEN-00227,Green Valley Builders,REG-JH-234721,Jharkhand,4,False
+VEN-00228,New Age Enterprises,REG-AS-786318,Assam,5,False
+VEN-00229,Silver Line Enterprises,REG-KA-996840,Karnataka,6,False
+VEN-00230,Green Valley Contractors,REG-KL-188646,Kerala,3,False
+VEN-00231,Om Contractors,REG-GJ-669111,Gujarat,4,False
+VEN-00232,National Associates,REG-UP-511174,Uttar Pradesh,4,False
+VEN-00233,Ananya Contractors,REG-KA-458002,Karnataka,7,False
+VEN-00234,Shree Sai Contractors,REG-PB-481333,Punjab,7,False
+VEN-00235,Trust Associates,REG-WB-486613,West Bengal,7,False
+VEN-00236,Ananya Engineering Works,REG-KA-873796,Karnataka,5,False
+VEN-00237,Golden Developers,REG-TG-745639,Telangana,7,False
+VEN-00238,Jai Bharat Engineering Works,REG-TN-708511,Tamil Nadu,7,False
+VEN-00239,Ganesh Enterprises,REG-BR-609157,Bihar,6,False
+VEN-00240,Jai Bharat Builders,REG-TN-885752,Tamil Nadu,5,False
+VEN-00241,Silver Line Engineering Works,REG-UP-805900,Uttar Pradesh,0,False
+VEN-00242,Ganesh Infrastructure Ltd,REG-GJ-463457,Gujarat,2,False
+VEN-00243,Om Infrastructure Ltd,REG-AP-133368,Andhra Pradesh,4,False
+VEN-00244,Jai Bharat Infra Projects,REG-UP-763890,Uttar Pradesh,7,False
+VEN-00245,Shakti Enterprises,REG-MH-480607,Maharashtra,5,False
+VEN-00246,Vishwakarma Associates,REG-RJ-422201,Rajasthan,3,False
+VEN-00247,Ganesh Enterprises,REG-KL-307888,Kerala,10,False
+VEN-00248,Star Associates,REG-TG-970899,Telangana,8,False
+VEN-00249,Krishna Contractors,REG-TN-278234,Tamil Nadu,4,False
+VEN-00250,Jai Bharat Contractors,REG-MP-818380,Madhya Pradesh,3,False
+VEN-00251,Vishwakarma Infrastructure Ltd,REG-AP-228694,Andhra Pradesh,6,False
+VEN-00252,Shakti Infra Projects,REG-HR-283510,Haryana,6,False
+VEN-00253,Om Developers,REG-HR-331590,Haryana,4,False
+VEN-00254,Reliable Enterprises,REG-TN-196106,Tamil Nadu,5,False
+VEN-00255,Ananya Infra Projects,REG-KA-639364,Karnataka,7,False
+VEN-00256,Om Infrastructure Ltd,REG-BR-299362,Bihar,5,False
+VEN-00257,National Works & Co,REG-MP-317332,Madhya Pradesh,4,False
+VEN-00258,Om Works & Co,REG-MH-997567,Maharashtra,2,False
+VEN-00259,Sundar Associates,REG-MP-478228,Madhya Pradesh,5,False
+VEN-00260,New Age Works & Co,REG-BR-233870,Bihar,9,False
+VEN-00261,Vishwakarma Engineering Works,REG-RJ-310868,Rajasthan,6,False
+VEN-00262,Ganesh Associates,REG-WB-994551,West Bengal,2,False
+VEN-00263,Trust Infrastructure Ltd,REG-BR-474031,Bihar,5,False
+VEN-00264,Jai Bharat Contractors,REG-UP-561421,Uttar Pradesh,5,False
+VEN-00265,Laxmi Enterprises,REG-TN-197203,Tamil Nadu,5,False
+VEN-00266,Silver Line Works & Co,REG-HR-110319,Haryana,6,False
+VEN-00267,Trust Engineering Works,REG-OD-193220,Odisha,347,True
+VEN-00268,Trust Infrastructure Ltd,REG-WB-616015,West Bengal,8,False
+VEN-00269,Shakti Engineering Works,REG-UP-925274,Uttar Pradesh,6,False
+VEN-00270,Krishna Associates,REG-PB-938879,Punjab,6,False
+VEN-00271,United Contractors,REG-AP-994653,Andhra Pradesh,5,False
+VEN-00272,Prime Builders,REG-TG-291426,Telangana,6,False
+VEN-00273,Om Engineering Works,REG-TG-831830,Telangana,8,False
+VEN-00274,Bharat Works & Co,REG-AP-509373,Andhra Pradesh,3,False
+VEN-00275,Krishna Infrastructure Ltd,REG-HR-907147,Haryana,4,False
+VEN-00276,Silver Line Infrastructure Ltd,REG-GJ-387224,Gujarat,2,False
+VEN-00277,Reliable Constructions,REG-PB-116127,Punjab,7,False
+VEN-00278,Sundar Constructions,REG-KL-219152,Kerala,4,False
+VEN-00279,Elite Contractors,REG-JH-673954,Jharkhand,4,False
+VEN-00280,National Enterprises,REG-WB-338718,West Bengal,3,False
+VEN-00281,Vishwakarma Infrastructure Ltd,REG-TN-266887,Tamil Nadu,3,False
+VEN-00282,Ganesh Associates,REG-BR-785499,Bihar,5,False
+VEN-00283,National Engineering Works,REG-HR-951652,Haryana,4,False
+VEN-00284,New Age Works & Co,REG-MH-492437,Maharashtra,4,False
+VEN-00285,Golden Contractors,REG-HR-456919,Haryana,3,False
+VEN-00286,Green Valley Builders,REG-BR-894418,Bihar,5,False
+VEN-00287,United Associates,REG-RJ-452395,Rajasthan,5,False
+VEN-00288,Shakti Developers,REG-BR-441590,Bihar,4,False
+VEN-00289,Shakti Engineering Works,REG-OD-234539,Odisha,5,False
+VEN-00290,United Enterprises,REG-TG-144314,Telangana,5,False
+VEN-00291,Divya Developers,REG-JH-632613,Jharkhand,10,False
+VEN-00292,United Engineering Works,REG-CG-138086,Chhattisgarh,3,False
+VEN-00293,Trust Engineering Works,REG-JH-104895,Jharkhand,6,False
+VEN-00294,Sundar Constructions,REG-KA-748062,Karnataka,5,False
+VEN-00295,Star Infrastructure Ltd,REG-OD-531473,Odisha,3,False
+VEN-00296,Krishna Works & Co,REG-AS-360483,Assam,4,False
+VEN-00297,Sundar Infrastructure Ltd,REG-WB-533405,West Bengal,6,False
+VEN-00298,Divya Enterprises,REG-CG-977133,Chhattisgarh,4,False
+VEN-00299,Krishna Developers,REG-JH-740994,Jharkhand,5,False
+VEN-00300,Vishwakarma Works & Co,REG-JH-526864,Jharkhand,5,False
+VEN-00301,Laxmi Engineering Works,REG-GJ-298003,Gujarat,3,False
+VEN-00302,Krishna Constructions,REG-MH-843193,Maharashtra,2,False
+VEN-00303,Sundar Infrastructure Ltd,REG-RJ-226610,Rajasthan,5,False
+VEN-00304,Shree Sai Associates,REG-KA-173727,Karnataka,7,False
+VEN-00305,Star Constructions,REG-PB-354169,Punjab,7,False
+VEN-00306,Shree Sai Associates,REG-MP-380433,Madhya Pradesh,2,False
+VEN-00307,Golden Infrastructure Ltd,REG-MH-175265,Maharashtra,4,False
+VEN-00308,United Enterprises,REG-AP-260112,Andhra Pradesh,5,False
+VEN-00309,Krishna Associates,REG-WB-682146,West Bengal,8,False
+VEN-00310,Bharat Associates,REG-WB-571040,West Bengal,8,False
+VEN-00311,Bharat Builders,REG-MP-910883,Madhya Pradesh,4,False
+VEN-00312,Ananya Engineering Works,REG-KL-985847,Kerala,4,False
+VEN-00313,National Works & Co,REG-KA-470084,Karnataka,5,False
+VEN-00314,Ananya Enterprises,REG-AS-220007,Assam,3,False
+VEN-00315,Sundar Engineering Works,REG-AP-505312,Andhra Pradesh,4,False
+VEN-00316,Shree Sai Works & Co,REG-UP-357914,Uttar Pradesh,6,False
+VEN-00317,Om Contractors,REG-TN-128967,Tamil Nadu,3,False
+VEN-00318,Sundar Engineering Works,REG-MH-902678,Maharashtra,7,False
+VEN-00319,Shree Sai Enterprises,REG-TN-149990,Tamil Nadu,7,False
+VEN-00320,Krishna Infrastructure Ltd,REG-JH-696371,Jharkhand,4,False
+VEN-00321,Reliable Engineering Works,REG-TN-908064,Tamil Nadu,4,False
+VEN-00322,Bharat Engineering Works,REG-MP-431204,Madhya Pradesh,7,False
+VEN-00323,Ananya Works & Co,REG-MH-190789,Maharashtra,5,False
+VEN-00324,Vishwakarma Builders,REG-TN-508872,Tamil Nadu,5,True
+VEN-00325,Krishna Constructions,REG-BR-680163,Bihar,7,False
+VEN-00326,Green Valley Works & Co,REG-PB-590661,Punjab,2,False
+VEN-00327,Krishna Enterprises,REG-TG-533136,Telangana,3,False
+VEN-00328,Reliable Contractors,REG-HR-689709,Haryana,4,False
+VEN-00329,Shree Sai Engineering Works,REG-OD-408996,Odisha,8,False
+VEN-00330,Ganesh Engineering Works,REG-MP-819267,Madhya Pradesh,5,False
+VEN-00331,Vishwakarma Works & Co,REG-PB-184023,Punjab,4,False
+VEN-00332,Prime Constructions,REG-OD-600091,Odisha,4,False
+VEN-00333,Ganesh Engineering Works,REG-WB-654067,West Bengal,7,False
+VEN-00334,Krishna Infrastructure Ltd,REG-MP-703653,Madhya Pradesh,7,False
+VEN-00335,Ananya Builders,REG-KA-140418,Karnataka,8,False
+VEN-00336,Shakti Associates,REG-WB-574850,West Bengal,4,False
+VEN-00337,Prime Associates,REG-MH-284813,Maharashtra,6,False
+VEN-00338,Ganesh Associates,REG-BR-224325,Bihar,274,True
+VEN-00339,Bharat Constructions,REG-AP-124161,Andhra Pradesh,2,False
+VEN-00340,Ananya Constructions,REG-BR-232385,Bihar,4,False
+VEN-00341,Jai Bharat Works & Co,REG-AP-226708,Andhra Pradesh,3,False
+VEN-00342,Jai Bharat Associates,REG-KL-900364,Kerala,5,False
+VEN-00343,Prime Developers,REG-WB-204187,West Bengal,5,False
+VEN-00344,Laxmi Associates,REG-TG-254512,Telangana,2,False
+VEN-00345,Ananya Constructions,REG-MH-639767,Maharashtra,10,False
+VEN-00346,Om Constructions,REG-BR-691971,Bihar,6,False
+VEN-00347,United Contractors,REG-GJ-887861,Gujarat,5,False
+VEN-00348,Metro Infrastructure Ltd,REG-TG-262176,Telangana,8,False
+VEN-00349,Golden Builders,REG-PB-789744,Punjab,7,False
+VEN-00350,Vishwakarma Engineering Works,REG-HR-976038,Haryana,4,False
+VEN-00351,New Age Infra Projects,REG-MP-498144,Madhya Pradesh,4,False
+VEN-00352,Trust Works & Co,REG-GJ-727217,Gujarat,1,False
+VEN-00353,Divya Contractors,REG-MP-203705,Madhya Pradesh,9,False
+VEN-00354,Krishna Contractors,REG-TN-690175,Tamil Nadu,6,False
+VEN-00355,Divya Contractors,REG-UP-830573,Uttar Pradesh,8,False
+VEN-00356,Shree Sai Builders,REG-AP-742089,Andhra Pradesh,4,False
+VEN-00357,National Works & Co,REG-MP-803502,Madhya Pradesh,7,False
+VEN-00358,Jai Bharat Builders,REG-KL-899385,Kerala,3,False
+VEN-00359,Sundar Engineering Works,REG-MH-851762,Maharashtra,7,False
+VEN-00360,Trust Developers,REG-PB-742921,Punjab,3,False
+VEN-00361,Jai Bharat Contractors,REG-GJ-168363,Gujarat,5,False
+VEN-00362,National Infrastructure Ltd,REG-AS-350786,Assam,7,False
+VEN-00363,Sundar Builders,REG-GJ-870641,Gujarat,1,False
+VEN-00364,Green Valley Developers,REG-JH-586428,Jharkhand,5,False
+VEN-00365,National Engineering Works,REG-KL-757508,Kerala,5,False
+VEN-00366,Krishna Contractors,REG-HR-171174,Haryana,4,False
+VEN-00367,Ganesh Engineering Works,REG-AP-568688,Andhra Pradesh,4,False
+VEN-00368,New Age Engineering Works,REG-MP-958985,Madhya Pradesh,5,True
+VEN-00369,Krishna Constructions,REG-AS-492056,Assam,2,False
+VEN-00370,New Age Constructions,REG-KL-372677,Kerala,3,False
+VEN-00371,Reliable Infra Projects,REG-RJ-798950,Rajasthan,3,False
+VEN-00372,Trust Builders,REG-UP-297733,Uttar Pradesh,4,False
+VEN-00373,Star Associates,REG-AP-427996,Andhra Pradesh,4,False
+VEN-00374,Laxmi Associates,REG-GJ-987616,Gujarat,8,False
+VEN-00375,Sundar Works & Co,REG-WB-266690,West Bengal,2,False
+VEN-00376,National Builders,REG-TG-338315,Telangana,5,False
+VEN-00377,Divya Infrastructure Ltd,REG-MP-412044,Madhya Pradesh,6,False
+VEN-00378,Ananya Associates,REG-JH-635510,Jharkhand,2,False
+VEN-00379,Laxmi Engineering Works,REG-OD-529156,Odisha,2,False
+VEN-00380,Krishna Contractors,REG-HR-257738,Haryana,1,False
+VEN-00381,Shree Sai Infra Projects,REG-PB-902046,Punjab,3,False
+VEN-00382,Metro Engineering Works,REG-JH-315988,Jharkhand,5,False
+VEN-00383,Reliable Engineering Works,REG-UP-935049,Uttar Pradesh,7,False
+VEN-00384,Bharat Engineering Works,REG-PB-440282,Punjab,8,False
+VEN-00385,Trust Works & Co,REG-GJ-985521,Gujarat,3,False
+VEN-00386,Golden Infrastructure Ltd,REG-MH-450444,Maharashtra,5,False
+VEN-00387,Om Infra Projects,REG-CG-329245,Chhattisgarh,5,False
+VEN-00388,Vishwakarma Contractors,REG-HR-605904,Haryana,15,False
+VEN-00389,Green Valley Engineering Works,REG-OD-745359,Odisha,2,False
+VEN-00390,Golden Constructions,REG-KA-699995,Karnataka,4,False
+VEN-00391,Silver Line Infra Projects,REG-KA-803102,Karnataka,7,False
+VEN-00392,Ananya Contractors,REG-KA-898698,Karnataka,4,False
+VEN-00393,Star Enterprises,REG-MP-671257,Madhya Pradesh,3,False
+VEN-00394,Metro Developers,REG-AP-381035,Andhra Pradesh,15,True
+VEN-00395,Green Valley Contractors,REG-GJ-830299,Gujarat,2,False
+VEN-00396,National Constructions,REG-KL-186202,Kerala,2,False
+VEN-00397,Jai Bharat Engineering Works,REG-GJ-305445,Gujarat,4,False
+VEN-00398,Shakti Enterprises,REG-UP-996038,Uttar Pradesh,3,False
+VEN-00399,Prime Developers,REG-OD-276154,Odisha,6,False
+VEN-00400,Vishwakarma Infra Projects,REG-RJ-816947,Rajasthan,6,False
+VEN-00401,Vishwakarma Infrastructure Ltd,REG-JH-344744,Jharkhand,3,False
+VEN-00402,Sundar Associates,REG-AS-390503,Assam,6,False
+VEN-00403,Jai Bharat Builders,REG-RJ-653481,Rajasthan,1,False
+VEN-00404,Laxmi Developers,REG-GJ-120163,Gujarat,3,False
+VEN-00405,Metro Enterprises,REG-WB-635817,West Bengal,6,False
+VEN-00406,Krishna Associates,REG-GJ-321348,Gujarat,3,False
+VEN-00407,Jai Bharat Associates,REG-BR-370975,Bihar,7,False
+VEN-00408,Laxmi Developers,REG-CG-823973,Chhattisgarh,8,False
+VEN-00409,National Builders,REG-GJ-931656,Gujarat,307,True
+VEN-00410,Ganesh Infra Projects,REG-RJ-315279,Rajasthan,4,False
+VEN-00411,Shree Sai Enterprises,REG-PB-179529,Punjab,5,False
+VEN-00412,Trust Constructions,REG-MH-941335,Maharashtra,4,False
+VEN-00413,New Age Developers,REG-PB-489113,Punjab,9,False
+VEN-00414,Ganesh Engineering Works,REG-RJ-485027,Rajasthan,3,False
+VEN-00415,Krishna Associates,REG-HR-898595,Haryana,4,False
+VEN-00416,Metro Enterprises,REG-CG-578787,Chhattisgarh,5,False
+VEN-00417,Om Contractors,REG-AS-299287,Assam,5,False
+VEN-00418,Sundar Developers,REG-JH-896518,Jharkhand,4,False
+VEN-00419,Sundar Developers,REG-CG-188966,Chhattisgarh,7,False
+VEN-00420,New Age Infra Projects,REG-RJ-251555,Rajasthan,6,False
+VEN-00421,National Associates,REG-AS-255247,Assam,7,False
+VEN-00422,Reliable Infra Projects,REG-PB-919328,Punjab,7,False
+VEN-00423,Metro Enterprises,REG-AS-942791,Assam,7,False
+VEN-00424,Golden Developers,REG-GJ-558220,Gujarat,8,False
+VEN-00425,Sundar Enterprises,REG-MH-805411,Maharashtra,4,False
+VEN-00426,Divya Enterprises,REG-TG-942320,Telangana,5,False
+VEN-00427,United Works & Co,REG-CG-526918,Chhattisgarh,2,False
+VEN-00428,National Infra Projects,REG-CG-339601,Chhattisgarh,9,False
+VEN-00429,Vishwakarma Contractors,REG-OD-175059,Odisha,5,False
+VEN-00430,Krishna Infra Projects,REG-TN-897653,Tamil Nadu,4,False
+VEN-00431,Krishna Developers,REG-JH-204620,Jharkhand,5,False
+VEN-00432,Golden Engineering Works,REG-HR-902552,Haryana,5,False
+VEN-00433,Ganesh Contractors,REG-TN-130445,Tamil Nadu,2,False
+VEN-00434,Golden Constructions,REG-AS-771099,Assam,5,False
+VEN-00435,Trust Works & Co,REG-GJ-217097,Gujarat,6,False
+VEN-00436,Jai Bharat Constructions,REG-CG-981244,Chhattisgarh,10,False
+VEN-00437,Metro Builders,REG-AP-337362,Andhra Pradesh,8,False
+VEN-00438,Krishna Builders,REG-CG-915954,Chhattisgarh,8,False
+VEN-00439,Krishna Associates,REG-MP-590776,Madhya Pradesh,8,False
+VEN-00440,Prime Infrastructure Ltd,REG-KL-992930,Kerala,8,False
+VEN-00441,Bharat Infrastructure Ltd,REG-KA-179545,Karnataka,289,True
+VEN-00442,Elite Constructions,REG-GJ-661859,Gujarat,7,False
+VEN-00443,Prime Infra Projects,REG-GJ-445064,Gujarat,4,False
+VEN-00444,Om Associates,REG-TG-994843,Telangana,6,False
+VEN-00445,New Age Infrastructure Ltd,REG-UP-436556,Uttar Pradesh,4,False
+VEN-00446,Om Infrastructure Ltd,REG-AS-586684,Assam,8,False
+VEN-00447,Shree Sai Infrastructure Ltd,REG-WB-445919,West Bengal,3,False
+VEN-00448,Ananya Infra Projects,REG-GJ-872958,Gujarat,5,False
+VEN-00449,Sundar Enterprises,REG-MH-220504,Maharashtra,2,False
+VEN-00450,Shree Sai Infrastructure Ltd,REG-OD-759404,Odisha,8,False
+VEN-00451,Laxmi Constructions,REG-UP-553162,Uttar Pradesh,6,False
+VEN-00452,Golden Works & Co,REG-TN-250241,Tamil Nadu,6,False
+VEN-00453,Divya Developers,REG-KL-521241,Kerala,5,False
+VEN-00454,Elite Engineering Works,REG-TN-129244,Tamil Nadu,5,False
+VEN-00455,Shakti Enterprises,REG-CG-408450,Chhattisgarh,6,False
+VEN-00456,Shree Sai Enterprises,REG-MP-127665,Madhya Pradesh,7,False
+VEN-00457,Trust Enterprises,REG-TN-798823,Tamil Nadu,2,False
+VEN-00458,New Age Builders,REG-TN-293321,Tamil Nadu,5,False
+VEN-00459,Bharat Contractors,REG-MP-777833,Madhya Pradesh,4,False
+VEN-00460,Shakti Builders,REG-AS-324780,Assam,4,False
+VEN-00461,Jai Bharat Constructions,REG-AS-992487,Assam,3,False
+VEN-00462,Om Enterprises,REG-OD-873920,Odisha,8,False
+VEN-00463,United Works & Co,REG-OD-244240,Odisha,1,False
+VEN-00464,United Engineering Works,REG-OD-417439,Odisha,4,False
+VEN-00465,National Builders,REG-CG-211915,Chhattisgarh,5,False
+VEN-00466,Ananya Works & Co,REG-OD-945723,Odisha,8,False
+VEN-00467,Laxmi Constructions,REG-OD-228095,Odisha,3,False
+VEN-00468,Ananya Contractors,REG-CG-923135,Chhattisgarh,3,False
+VEN-00469,Krishna Associates,REG-GJ-365995,Gujarat,1,False
+VEN-00470,Laxmi Infra Projects,REG-MH-237482,Maharashtra,4,False
+VEN-00471,Golden Builders,REG-WB-130683,West Bengal,6,False
+VEN-00472,Reliable Developers,REG-BR-802884,Bihar,4,False
+VEN-00473,United Enterprises,REG-KA-414038,Karnataka,7,False
+VEN-00474,Shree Sai Contractors,REG-JH-592880,Jharkhand,2,False
+VEN-00475,New Age Infrastructure Ltd,REG-JH-176067,Jharkhand,5,False
+VEN-00476,Silver Line Infra Projects,REG-HR-837061,Haryana,4,False
+VEN-00477,National Works & Co,REG-KA-474074,Karnataka,11,False
+VEN-00478,Prime Enterprises,REG-KL-197578,Kerala,1,False
+VEN-00479,Reliable Contractors,REG-TN-218015,Tamil Nadu,0,False
+VEN-00480,Ananya Developers,REG-JH-597733,Jharkhand,2,False
+VEN-00481,Star Infra Projects,REG-RJ-876576,Rajasthan,7,False
+VEN-00482,Jai Bharat Works & Co,REG-TG-787562,Telangana,4,False
+VEN-00483,Prime Infra Projects,REG-BR-465027,Bihar,9,False
+VEN-00484,Ganesh Works & Co,REG-MP-285604,Madhya Pradesh,6,False
+VEN-00485,Om Works & Co,REG-JH-789366,Jharkhand,4,False
+VEN-00486,Ananya Contractors,REG-TG-695898,Telangana,4,False
+VEN-00487,Trust Infra Projects,REG-TN-955615,Tamil Nadu,4,False
+VEN-00488,Sundar Works & Co,REG-KL-148032,Kerala,6,False
+VEN-00489,Prime Developers,REG-RJ-471533,Rajasthan,4,False
+VEN-00490,Reliable Engineering Works,REG-MH-488320,Maharashtra,7,False
+VEN-00491,Divya Enterprises,REG-KA-840180,Karnataka,6,False
+VEN-00492,Krishna Contractors,REG-RJ-907336,Rajasthan,2,False
+VEN-00493,Sundar Enterprises,REG-AS-435886,Assam,4,False
+VEN-00494,Shakti Developers,REG-PB-542434,Punjab,2,False
+VEN-00495,Jai Bharat Infrastructure Ltd,REG-RJ-256729,Rajasthan,5,False
+VEN-00496,Laxmi Infra Projects,REG-TN-970947,Tamil Nadu,7,False
+VEN-00497,Prime Developers,REG-AS-723714,Assam,6,False
+VEN-00498,Krishna Infrastructure Ltd,REG-KL-535552,Kerala,4,False
+VEN-00499,Green Valley Enterprises,REG-JH-462759,Jharkhand,10,False
+VEN-00500,Krishna Constructions,REG-PB-432843,Punjab,2,False
+VEN-00501,Reliable Contractors,REG-PB-618443,Punjab,4,False
+VEN-00502,Krishna Constructions,REG-AP-975425,Andhra Pradesh,3,False
+VEN-00503,Vishwakarma Works & Co,REG-AS-516198,Assam,3,False
+VEN-00504,Divya Works & Co,REG-TG-649477,Telangana,5,False
+VEN-00505,Trust Builders,REG-WB-144975,West Bengal,8,False
+VEN-00506,Om Developers,REG-MH-569644,Maharashtra,4,False
+VEN-00507,Jai Bharat Builders,REG-KL-736765,Kerala,3,False
+VEN-00508,New Age Works & Co,REG-AP-339635,Andhra Pradesh,4,False
+VEN-00509,National Enterprises,REG-UP-758365,Uttar Pradesh,4,False
+VEN-00510,Shree Sai Infra Projects,REG-AP-607216,Andhra Pradesh,7,False
+VEN-00511,Elite Associates,REG-TN-333737,Tamil Nadu,4,False
+VEN-00512,Ananya Works & Co,REG-KL-525206,Kerala,7,False
+VEN-00513,Shakti Builders,REG-AP-963306,Andhra Pradesh,5,False
+VEN-00514,Metro Enterprises,REG-CG-116609,Chhattisgarh,2,False
+VEN-00515,Trust Enterprises,REG-PB-725713,Punjab,2,False
+VEN-00516,Ananya Infra Projects,REG-HR-308106,Haryana,7,False
+VEN-00517,Om Developers,REG-BR-819728,Bihar,6,False
+VEN-00518,Golden Builders,REG-MH-310716,Maharashtra,7,False
+VEN-00519,Trust Infra Projects,REG-AS-524997,Assam,5,False
+VEN-00520,Elite Builders,REG-WB-489601,West Bengal,296,True
+VEN-00521,Bharat Infrastructure Ltd,REG-AS-903200,Assam,8,False
+VEN-00522,Shakti Developers,REG-PB-102650,Punjab,2,False
+VEN-00523,Jai Bharat Works & Co,REG-AP-713915,Andhra Pradesh,8,False
+VEN-00524,Divya Works & Co,REG-TN-244876,Tamil Nadu,8,False
+VEN-00525,Prime Works & Co,REG-TG-289830,Telangana,2,False
+VEN-00526,Krishna Infrastructure Ltd,REG-TN-504388,Tamil Nadu,7,True
+VEN-00527,Vishwakarma Contractors,REG-OD-951058,Odisha,7,False
+VEN-00528,Shree Sai Builders,REG-MH-193052,Maharashtra,2,False
+VEN-00529,Reliable Associates,REG-RJ-751474,Rajasthan,283,True
+VEN-00530,Bharat Infrastructure Ltd,REG-KL-723928,Kerala,8,False
+VEN-00531,Ganesh Contractors,REG-GJ-738031,Gujarat,2,False
+VEN-00532,National Developers,REG-TN-745342,Tamil Nadu,4,False
+VEN-00533,Reliable Engineering Works,REG-GJ-129504,Gujarat,5,False
+VEN-00534,Metro Contractors,REG-UP-924197,Uttar Pradesh,4,False
+VEN-00535,Bharat Builders,REG-AP-576683,Andhra Pradesh,2,False
+VEN-00536,Krishna Builders,REG-TN-221075,Tamil Nadu,3,False
+VEN-00537,Divya Associates,REG-KA-479535,Karnataka,3,False
+VEN-00538,Trust Builders,REG-PB-900495,Punjab,4,False
+VEN-00539,Silver Line Infra Projects,REG-BR-962435,Bihar,2,False
+VEN-00540,Golden Engineering Works,REG-UP-737429,Uttar Pradesh,2,False
+VEN-00541,Ananya Contractors,REG-GJ-256434,Gujarat,6,False
+VEN-00542,Jai Bharat Infrastructure Ltd,REG-HR-257663,Haryana,4,False
+VEN-00543,Golden Enterprises,REG-BR-497104,Bihar,1,False
+VEN-00544,Bharat Associates,REG-MP-497282,Madhya Pradesh,3,False
+VEN-00545,Elite Constructions,REG-CG-574597,Chhattisgarh,2,False
+VEN-00546,Silver Line Associates,REG-BR-842599,Bihar,2,False
+VEN-00547,Reliable Developers,REG-WB-694429,West Bengal,5,False
+VEN-00548,New Age Builders,REG-HR-195888,Haryana,9,False
+VEN-00549,Ananya Builders,REG-AP-920051,Andhra Pradesh,5,False
+VEN-00550,Shree Sai Builders,REG-TN-449235,Tamil Nadu,5,False
+VEN-00551,Vishwakarma Developers,REG-BR-316067,Bihar,4,False
+VEN-00552,Trust Enterprises,REG-JH-382017,Jharkhand,2,False
+VEN-00553,New Age Works & Co,REG-AP-848222,Andhra Pradesh,7,False
+VEN-00554,Star Engineering Works,REG-KA-856931,Karnataka,5,False
+VEN-00555,Shakti Developers,REG-CG-375791,Chhattisgarh,4,False
+VEN-00556,Ganesh Constructions,REG-TN-839320,Tamil Nadu,6,False
+VEN-00557,Sundar Engineering Works,REG-JH-143825,Jharkhand,5,False
+VEN-00558,Elite Infrastructure Ltd,REG-AP-200574,Andhra Pradesh,3,False
+VEN-00559,Laxmi Works & Co,REG-TG-926383,Telangana,9,False
+VEN-00560,Ananya Contractors,REG-CG-760957,Chhattisgarh,2,False
+VEN-00561,Silver Line Works & Co,REG-KL-344746,Kerala,6,False
+VEN-00562,Shree Sai Enterprises,REG-TN-777012,Tamil Nadu,8,False
+VEN-00563,National Builders,REG-RJ-168618,Rajasthan,10,False
+VEN-00564,United Contractors,REG-KA-949479,Karnataka,6,False
+VEN-00565,Bharat Constructions,REG-AP-818260,Andhra Pradesh,6,False
+VEN-00566,Ananya Contractors,REG-TN-568915,Tamil Nadu,4,False
+VEN-00567,National Enterprises,REG-WB-876612,West Bengal,0,False
+VEN-00568,National Enterprises,REG-UP-728949,Uttar Pradesh,6,False
+VEN-00569,Star Enterprises,REG-UP-927111,Uttar Pradesh,4,False
+VEN-00570,Reliable Infra Projects,REG-WB-619532,West Bengal,7,False
+VEN-00571,Golden Infra Projects,REG-TG-147371,Telangana,5,False
+VEN-00572,Reliable Infrastructure Ltd,REG-MP-572854,Madhya Pradesh,9,False
+VEN-00573,Prime Works & Co,REG-MH-834595,Maharashtra,12,False
+VEN-00574,Divya Contractors,REG-GJ-245968,Gujarat,3,False
+VEN-00575,Laxmi Works & Co,REG-WB-926696,West Bengal,4,False
+VEN-00576,Golden Contractors,REG-OD-310924,Odisha,5,False
+VEN-00577,United Associates,REG-HR-370309,Haryana,6,False
+VEN-00578,Trust Contractors,REG-GJ-114301,Gujarat,6,False
+VEN-00579,Vishwakarma Developers,REG-KA-331761,Karnataka,2,False
+VEN-00580,Reliable Enterprises,REG-WB-641826,West Bengal,4,False
+VEN-00581,Divya Infrastructure Ltd,REG-MH-952960,Maharashtra,6,True
+VEN-00582,New Age Developers,REG-CG-393860,Chhattisgarh,4,False
+VEN-00583,Green Valley Infrastructure Ltd,REG-PB-149851,Punjab,8,False
+VEN-00584,Star Infrastructure Ltd,REG-BR-919078,Bihar,5,False
+VEN-00585,Sundar Infrastructure Ltd,REG-MP-688533,Madhya Pradesh,7,False
+VEN-00586,Krishna Infrastructure Ltd,REG-CG-501098,Chhattisgarh,6,False
+VEN-00587,Vishwakarma Contractors,REG-CG-931963,Chhattisgarh,4,False
+VEN-00588,Krishna Builders,REG-TG-558347,Telangana,0,False
+VEN-00589,Silver Line Contractors,REG-AS-935880,Assam,5,False
+VEN-00590,Ananya Associates,REG-MH-125682,Maharashtra,5,False
+VEN-00591,Golden Builders,REG-JH-537102,Jharkhand,4,False
+VEN-00592,Golden Enterprises,REG-OD-553746,Odisha,4,False
+VEN-00593,Prime Engineering Works,REG-UP-602115,Uttar Pradesh,7,False
+VEN-00594,Elite Builders,REG-AS-856839,Assam,3,False
+VEN-00595,Krishna Developers,REG-RJ-346812,Rajasthan,5,False
+VEN-00596,Shakti Contractors,REG-MH-207170,Maharashtra,5,False
+VEN-00597,Metro Developers,REG-UP-463748,Uttar Pradesh,8,False
+VEN-00598,Shree Sai Works & Co,REG-AP-183381,Andhra Pradesh,7,False
+VEN-00599,Shakti Builders,REG-MH-472836,Maharashtra,6,False
+VEN-00600,Reliable Engineering Works,REG-HR-542156,Haryana,4,False
+VEN-00601,Metro Infra Projects,REG-AP-778244,Andhra Pradesh,2,False
+VEN-00602,United Contractors,REG-BR-368182,Bihar,3,False
+VEN-00603,New Age Developers,REG-MH-167538,Maharashtra,8,False
+VEN-00604,Golden Infra Projects,REG-PB-134657,Punjab,7,False
+VEN-00605,Shakti Associates,REG-OD-738605,Odisha,5,False
+VEN-00606,Prime Builders,REG-UP-625013,Uttar Pradesh,3,False
+VEN-00607,Elite Contractors,REG-RJ-800894,Rajasthan,9,False
+VEN-00608,Vishwakarma Engineering Works,REG-UP-530866,Uttar Pradesh,6,False
+VEN-00609,Krishna Developers,REG-UP-293070,Uttar Pradesh,8,False
+VEN-00610,Om Constructions,REG-UP-679777,Uttar Pradesh,9,False
+VEN-00611,Sundar Engineering Works,REG-JH-191964,Jharkhand,4,False
+VEN-00612,Prime Developers,REG-KL-683158,Kerala,6,False
+VEN-00613,United Infrastructure Ltd,REG-KA-653273,Karnataka,3,False
+VEN-00614,Bharat Associates,REG-KA-946879,Karnataka,5,False
+VEN-00615,Laxmi Engineering Works,REG-MP-238847,Madhya Pradesh,3,False
+VEN-00616,Laxmi Enterprises,REG-WB-567540,West Bengal,6,False
+VEN-00617,United Contractors,REG-GJ-987157,Gujarat,3,False
+VEN-00618,Ananya Developers,REG-RJ-615167,Rajasthan,2,False
+VEN-00619,Star Enterprises,REG-TG-508268,Telangana,3,False
+VEN-00620,New Age Works & Co,REG-HR-976642,Haryana,6,False
+VEN-00621,Sundar Infrastructure Ltd,REG-TN-313417,Tamil Nadu,7,False
+VEN-00622,Star Constructions,REG-CG-809509,Chhattisgarh,4,False
+VEN-00623,Vishwakarma Associates,REG-OD-407746,Odisha,4,False
+VEN-00624,Metro Builders,REG-GJ-470897,Gujarat,5,False
+VEN-00625,Shakti Developers,REG-PB-847254,Punjab,3,False
+VEN-00626,Vishwakarma Works & Co,REG-HR-207327,Haryana,6,False
+VEN-00627,Metro Contractors,REG-WB-461203,West Bengal,3,False
+VEN-00628,Golden Contractors,REG-RJ-153573,Rajasthan,6,False
+VEN-00629,Reliable Associates,REG-UP-691150,Uttar Pradesh,7,False
+VEN-00630,Sundar Builders,REG-TN-671987,Tamil Nadu,3,False
+VEN-00631,Golden Developers,REG-RJ-346038,Rajasthan,6,False
+VEN-00632,Star Builders,REG-BR-536308,Bihar,5,False
+VEN-00633,Golden Works & Co,REG-CG-964978,Chhattisgarh,10,False
+VEN-00634,Sundar Enterprises,REG-RJ-418669,Rajasthan,3,False
+VEN-00635,Ananya Constructions,REG-PB-370893,Punjab,4,False
+VEN-00636,New Age Engineering Works,REG-KA-351882,Karnataka,10,True
+VEN-00637,New Age Works & Co,REG-OD-765242,Odisha,0,False
+VEN-00638,Jai Bharat Associates,REG-MP-173781,Madhya Pradesh,9,False
+VEN-00639,Sundar Builders,REG-WB-223507,West Bengal,3,False
+VEN-00640,Trust Infra Projects,REG-HR-879454,Haryana,2,False
+VEN-00641,Reliable Constructions,REG-PB-454608,Punjab,4,False
+VEN-00642,Golden Constructions,REG-PB-434490,Punjab,6,False
+VEN-00643,Trust Constructions,REG-AP-781042,Andhra Pradesh,10,False
+VEN-00644,Sundar Engineering Works,REG-TG-202324,Telangana,9,False
+VEN-00645,Metro Developers,REG-AP-354672,Andhra Pradesh,7,False
+VEN-00646,Divya Works & Co,REG-KA-341730,Karnataka,6,False
+VEN-00647,Om Infrastructure Ltd,REG-OD-322289,Odisha,4,False
+VEN-00648,Bharat Developers,REG-TN-970897,Tamil Nadu,6,False
+VEN-00649,Om Enterprises,REG-AS-181742,Assam,2,False
+VEN-00650,Trust Developers,REG-OD-734194,Odisha,6,False
+VEN-00651,Golden Builders,REG-JH-484662,Jharkhand,11,False
+VEN-00652,Laxmi Developers,REG-MP-649522,Madhya Pradesh,5,False
+VEN-00653,Vishwakarma Builders,REG-PB-994855,Punjab,9,False
+VEN-00654,Sundar Contractors,REG-PB-274782,Punjab,4,False
+VEN-00655,Elite Constructions,REG-RJ-643148,Rajasthan,7,False
+VEN-00656,Green Valley Constructions,REG-KL-927488,Kerala,6,False
+VEN-00657,Elite Engineering Works,REG-RJ-270285,Rajasthan,6,False
+VEN-00658,Vishwakarma Developers,REG-GJ-183152,Gujarat,8,False
+VEN-00659,Ganesh Infrastructure Ltd,REG-BR-675652,Bihar,6,False
+VEN-00660,Bharat Infra Projects,REG-HR-174041,Haryana,7,False
+VEN-00661,Green Valley Constructions,REG-HR-529038,Haryana,3,False
+VEN-00662,Silver Line Associates,REG-UP-465262,Uttar Pradesh,8,False
+VEN-00663,Ganesh Developers,REG-PB-677169,Punjab,8,False
+VEN-00664,Sundar Builders,REG-MH-814680,Maharashtra,1,False
+VEN-00665,Krishna Enterprises,REG-MH-634365,Maharashtra,7,False
+VEN-00666,Laxmi Contractors,REG-MH-377133,Maharashtra,5,False
+VEN-00667,Star Works & Co,REG-TN-916987,Tamil Nadu,8,False
+VEN-00668,Bharat Engineering Works,REG-HR-492842,Haryana,3,False
+VEN-00669,New Age Infrastructure Ltd,REG-AS-285099,Assam,5,False
+VEN-00670,Shree Sai Infra Projects,REG-KL-946521,Kerala,6,False
+VEN-00671,Sundar Enterprises,REG-WB-809512,West Bengal,6,False
+VEN-00672,Elite Constructions,REG-TG-327410,Telangana,3,False
+VEN-00673,Sundar Infrastructure Ltd,REG-KA-253441,Karnataka,2,False
+VEN-00674,United Infrastructure Ltd,REG-TG-262641,Telangana,5,False
+VEN-00675,Golden Developers,REG-BR-891335,Bihar,5,False
+VEN-00676,Shakti Infrastructure Ltd,REG-RJ-277427,Rajasthan,3,False
+VEN-00677,Laxmi Developers,REG-TN-115730,Tamil Nadu,4,False
+VEN-00678,Prime Contractors,REG-AP-514112,Andhra Pradesh,6,False
+VEN-00679,Jai Bharat Engineering Works,REG-MH-519290,Maharashtra,4,False
+VEN-00680,Laxmi Infra Projects,REG-GJ-608324,Gujarat,4,False
+VEN-00681,Reliable Associates,REG-AP-393533,Andhra Pradesh,6,False
+VEN-00682,Ananya Engineering Works,REG-KA-381691,Karnataka,7,False
+VEN-00683,Elite Developers,REG-BR-788025,Bihar,8,False
+VEN-00684,Laxmi Engineering Works,REG-WB-500178,West Bengal,5,False
+VEN-00685,United Associates,REG-OD-205672,Odisha,9,False
+VEN-00686,New Age Associates,REG-CG-942115,Chhattisgarh,7,False
+VEN-00687,Krishna Infrastructure Ltd,REG-GJ-833869,Gujarat,7,False
+VEN-00688,Reliable Infrastructure Ltd,REG-AP-725566,Andhra Pradesh,5,False
+VEN-00689,Sundar Constructions,REG-RJ-458254,Rajasthan,7,False
+VEN-00690,Bharat Developers,REG-GJ-334842,Gujarat,2,False
+VEN-00691,Ananya Developers,REG-PB-691007,Punjab,6,False
+VEN-00692,Ganesh Developers,REG-MH-203748,Maharashtra,5,False
+VEN-00693,United Developers,REG-AS-679648,Assam,6,False
+VEN-00694,Krishna Infrastructure Ltd,REG-BR-197064,Bihar,6,False
+VEN-00695,Elite Builders,REG-TG-301740,Telangana,7,False
+VEN-00696,Divya Engineering Works,REG-RJ-608316,Rajasthan,11,False
+VEN-00697,Golden Constructions,REG-TG-297033,Telangana,6,False
+VEN-00698,Metro Infra Projects,REG-UP-836205,Uttar Pradesh,4,False
+VEN-00699,Silver Line Enterprises,REG-PB-166456,Punjab,5,False
+VEN-00700,Golden Enterprises,REG-AP-252634,Andhra Pradesh,5,False
+VEN-00701,Jai Bharat Engineering Works,REG-TG-104115,Telangana,7,False
+VEN-00702,Prime Works & Co,REG-KL-463000,Kerala,1,False
+VEN-00703,Shakti Infra Projects,REG-WB-849794,West Bengal,2,False
+VEN-00704,United Works & Co,REG-MP-143121,Madhya Pradesh,5,False
+VEN-00705,Golden Infrastructure Ltd,REG-WB-112638,West Bengal,320,True
+VEN-00706,Golden Works & Co,REG-KA-627026,Karnataka,6,False
+VEN-00707,Vishwakarma Developers,REG-KA-977325,Karnataka,7,True
+VEN-00708,United Developers,REG-AP-453454,Andhra Pradesh,4,False
+VEN-00709,Trust Associates,REG-TG-826962,Telangana,4,False
+VEN-00710,Shree Sai Infrastructure Ltd,REG-KA-866270,Karnataka,6,False
+VEN-00711,Sundar Enterprises,REG-TG-637798,Telangana,2,False
+VEN-00712,Om Infra Projects,REG-AP-818651,Andhra Pradesh,5,False
+VEN-00713,Green Valley Engineering Works,REG-KL-406990,Kerala,4,False
+VEN-00714,Bharat Works & Co,REG-RJ-276336,Rajasthan,5,False
+VEN-00715,Silver Line Associates,REG-UP-600586,Uttar Pradesh,2,False
+VEN-00716,Krishna Enterprises,REG-AS-338513,Assam,5,False
+VEN-00717,Om Engineering Works,REG-BR-379121,Bihar,4,False
+VEN-00718,Jai Bharat Contractors,REG-MP-423296,Madhya Pradesh,4,False
+VEN-00719,Green Valley Associates,REG-RJ-122815,Rajasthan,4,False
+VEN-00720,Shree Sai Constructions,REG-RJ-331379,Rajasthan,4,False
+VEN-00721,National Infrastructure Ltd,REG-TG-767904,Telangana,4,False
+VEN-00722,Star Infra Projects,REG-RJ-206883,Rajasthan,3,False
+VEN-00723,Shree Sai Enterprises,REG-MP-118269,Madhya Pradesh,4,False
+VEN-00724,Silver Line Contractors,REG-RJ-466003,Rajasthan,2,False
+VEN-00725,New Age Builders,REG-PB-727682,Punjab,4,False
+VEN-00726,Golden Builders,REG-JH-779548,Jharkhand,5,False
+VEN-00727,New Age Contractors,REG-MH-789692,Maharashtra,12,False
+VEN-00728,Shree Sai Contractors,REG-CG-240628,Chhattisgarh,315,True
+VEN-00729,National Builders,REG-BR-569221,Bihar,6,False
+VEN-00730,Trust Infrastructure Ltd,REG-WB-550493,West Bengal,5,False
+VEN-00731,Jai Bharat Developers,REG-WB-964434,West Bengal,4,False
+VEN-00732,Elite Engineering Works,REG-MP-811699,Madhya Pradesh,1,False
+VEN-00733,National Works & Co,REG-OD-342718,Odisha,6,False
+VEN-00734,Reliable Constructions,REG-MP-776830,Madhya Pradesh,6,False
+VEN-00735,Jai Bharat Builders,REG-HR-777067,Haryana,3,False
+VEN-00736,Star Builders,REG-AS-598801,Assam,6,False
+VEN-00737,Sundar Associates,REG-CG-669312,Chhattisgarh,9,False
+VEN-00738,Golden Infra Projects,REG-AS-798189,Assam,6,False
+VEN-00739,Sundar Associates,REG-JH-191098,Jharkhand,4,False
+VEN-00740,Golden Works & Co,REG-HR-861032,Haryana,5,False
+VEN-00741,Golden Developers,REG-PB-629257,Punjab,6,False
+VEN-00742,Sundar Works & Co,REG-MP-236265,Madhya Pradesh,7,False
+VEN-00743,Trust Contractors,REG-RJ-755415,Rajasthan,3,False
+VEN-00744,Metro Developers,REG-AP-273925,Andhra Pradesh,7,False
+VEN-00745,Om Works & Co,REG-GJ-616070,Gujarat,3,False
+VEN-00746,Sundar Contractors,REG-MH-797335,Maharashtra,2,False
+VEN-00747,Ganesh Infra Projects,REG-OD-732958,Odisha,9,False
+VEN-00748,Divya Contractors,REG-HR-637286,Haryana,6,False
+VEN-00749,Laxmi Constructions,REG-RJ-797969,Rajasthan,5,False
+VEN-00750,New Age Infrastructure Ltd,REG-GJ-744325,Gujarat,4,False
+VEN-00751,Jai Bharat Associates,REG-BR-365793,Bihar,4,False
+VEN-00752,Ganesh Builders,REG-MP-614920,Madhya Pradesh,7,False
+VEN-00753,Silver Line Constructions,REG-KA-634085,Karnataka,7,False
+VEN-00754,Vishwakarma Engineering Works,REG-MP-934494,Madhya Pradesh,6,False
+VEN-00755,Shree Sai Constructions,REG-AS-290645,Assam,5,False
+VEN-00756,Ganesh Developers,REG-MP-496382,Madhya Pradesh,5,False
+VEN-00757,Jai Bharat Contractors,REG-KA-744653,Karnataka,8,False
+VEN-00758,Metro Builders,REG-MH-985371,Maharashtra,2,False
+VEN-00759,Laxmi Builders,REG-RJ-772302,Rajasthan,2,False
+VEN-00760,United Enterprises,REG-GJ-733188,Gujarat,3,False
+VEN-00761,Ananya Infra Projects,REG-WB-919723,West Bengal,4,False
+VEN-00762,Trust Works & Co,REG-RJ-233589,Rajasthan,8,False
+VEN-00763,Ganesh Enterprises,REG-TG-954614,Telangana,10,False
+VEN-00764,Ganesh Contractors,REG-TN-816770,Tamil Nadu,6,False
+VEN-00765,Golden Associates,REG-JH-841676,Jharkhand,5,False
+VEN-00766,Sundar Infra Projects,REG-UP-713633,Uttar Pradesh,5,False
+VEN-00767,Sundar Contractors,REG-GJ-743210,Gujarat,6,False
+VEN-00768,Prime Engineering Works,REG-KA-950098,Karnataka,5,False
+VEN-00769,Bharat Infrastructure Ltd,REG-HR-300445,Haryana,5,False
+VEN-00770,Metro Enterprises,REG-WB-814956,West Bengal,9,False
+VEN-00771,Metro Infra Projects,REG-TG-158310,Telangana,5,False
+VEN-00772,Golden Associates,REG-RJ-773499,Rajasthan,5,False
+VEN-00773,Laxmi Constructions,REG-HR-998020,Haryana,7,False
+VEN-00774,Laxmi Engineering Works,REG-PB-264342,Punjab,2,False
+VEN-00775,Krishna Constructions,REG-UP-939498,Uttar Pradesh,4,False
+VEN-00776,United Engineering Works,REG-MH-161323,Maharashtra,2,False
+VEN-00777,Green Valley Infra Projects,REG-PB-851320,Punjab,6,False
+VEN-00778,National Associates,REG-WB-525327,West Bengal,5,False
+VEN-00779,New Age Engineering Works,REG-TN-372112,Tamil Nadu,9,False
+VEN-00780,Silver Line Enterprises,REG-JH-331546,Jharkhand,9,False
+VEN-00781,Shree Sai Builders,REG-AP-104284,Andhra Pradesh,6,False
+VEN-00782,Metro Infra Projects,REG-MH-710172,Maharashtra,4,False
+VEN-00783,Bharat Developers,REG-TN-807588,Tamil Nadu,5,False
+VEN-00784,United Constructions,REG-RJ-348492,Rajasthan,7,False
+VEN-00785,Bharat Enterprises,REG-JH-362744,Jharkhand,318,True
+VEN-00786,Laxmi Engineering Works,REG-OD-768226,Odisha,3,False
+VEN-00787,Om Contractors,REG-RJ-644104,Rajasthan,4,False
+VEN-00788,Green Valley Builders,REG-HR-928464,Haryana,8,False
+VEN-00789,Silver Line Associates,REG-WB-349900,West Bengal,6,False
+VEN-00790,Metro Infra Projects,REG-GJ-149770,Gujarat,4,False
+VEN-00791,United Enterprises,REG-TN-415309,Tamil Nadu,4,False
+VEN-00792,Sundar Engineering Works,REG-HR-474258,Haryana,6,False
+VEN-00793,Ananya Enterprises,REG-KL-386496,Kerala,5,False
+VEN-00794,Elite Constructions,REG-RJ-415319,Rajasthan,2,False
+VEN-00795,Divya Infra Projects,REG-AS-996044,Assam,40,True
+VEN-00796,Vishwakarma Associates,REG-AS-860610,Assam,5,False
+VEN-00797,Vishwakarma Builders,REG-WB-331863,West Bengal,2,False
+VEN-00798,Elite Works & Co,REG-OD-165657,Odisha,8,False
+VEN-00799,Krishna Associates,REG-KL-783848,Kerala,3,False
+VEN-00800,Divya Infra Projects,REG-WB-399722,West Bengal,7,False
+VEN-00801,Trust Works & Co,REG-BR-731565,Bihar,4,False
+VEN-00802,Sundar Contractors,REG-MP-172227,Madhya Pradesh,3,False
+VEN-00803,Trust Contractors,REG-JH-598410,Jharkhand,3,False
+VEN-00804,Silver Line Builders,REG-OD-857054,Odisha,6,False
+VEN-00805,Star Works & Co,REG-AP-757107,Andhra Pradesh,5,False
+VEN-00806,Golden Works & Co,REG-GJ-127066,Gujarat,3,False
+VEN-00807,Om Constructions,REG-BR-932303,Bihar,2,False
+VEN-00808,Jai Bharat Engineering Works,REG-PB-488327,Punjab,2,False
+VEN-00809,Prime Engineering Works,REG-MP-532668,Madhya Pradesh,5,False
+VEN-00810,Om Associates,REG-UP-805846,Uttar Pradesh,3,False
+VEN-00811,Vishwakarma Builders,REG-AS-893857,Assam,4,False
+VEN-00812,Jai Bharat Associates,REG-TN-958409,Tamil Nadu,8,False
+VEN-00813,Elite Infra Projects,REG-WB-845030,West Bengal,5,False
+VEN-00814,Silver Line Enterprises,REG-AP-967325,Andhra Pradesh,6,False
+VEN-00815,Ananya Builders,REG-UP-989911,Uttar Pradesh,5,False
+VEN-00816,Golden Developers,REG-OD-731375,Odisha,5,False
+VEN-00817,Divya Developers,REG-HR-886621,Haryana,6,False
+VEN-00818,Trust Engineering Works,REG-KA-751670,Karnataka,1,False
+VEN-00819,United Infra Projects,REG-BR-563004,Bihar,7,False
+VEN-00820,Metro Enterprises,REG-PB-773071,Punjab,3,False
+VEN-00821,Vishwakarma Infrastructure Ltd,REG-MH-966794,Maharashtra,6,False
+VEN-00822,National Builders,REG-AS-497507,Assam,7,False
+VEN-00823,Prime Contractors,REG-UP-349974,Uttar Pradesh,5,False
+VEN-00824,Star Builders,REG-BR-417092,Bihar,10,False
+VEN-00825,Prime Enterprises,REG-JH-354662,Jharkhand,2,False
+VEN-00826,Metro Infrastructure Ltd,REG-MP-358936,Madhya Pradesh,7,False
+VEN-00827,Green Valley Enterprises,REG-KL-441911,Kerala,4,False
+VEN-00828,Shree Sai Infra Projects,REG-GJ-628748,Gujarat,8,False
+VEN-00829,Jai Bharat Developers,REG-KL-432581,Kerala,6,False
+VEN-00830,Om Enterprises,REG-KL-836299,Kerala,4,False
+VEN-00831,Sundar Enterprises,REG-AP-155727,Andhra Pradesh,3,False
+VEN-00832,Silver Line Engineering Works,REG-MH-178177,Maharashtra,289,True
+VEN-00833,Krishna Constructions,REG-OD-827441,Odisha,6,False
+VEN-00834,Reliable Builders,REG-KL-994591,Kerala,5,False
+VEN-00835,Green Valley Constructions,REG-MP-141748,Madhya Pradesh,7,False
+VEN-00836,National Associates,REG-PB-620194,Punjab,3,False
+VEN-00837,Sundar Engineering Works,REG-TN-405534,Tamil Nadu,7,False
+VEN-00838,Om Constructions,REG-PB-198129,Punjab,12,False
+VEN-00839,Vishwakarma Developers,REG-BR-539948,Bihar,7,False
+VEN-00840,Shree Sai Infrastructure Ltd,REG-AP-219736,Andhra Pradesh,9,False
+VEN-00841,Laxmi Associates,REG-TN-127489,Tamil Nadu,5,False
+VEN-00842,Shree Sai Associates,REG-OD-986545,Odisha,5,False
+VEN-00843,Elite Contractors,REG-OD-520163,Odisha,7,False
+VEN-00844,Prime Engineering Works,REG-MP-369809,Madhya Pradesh,6,False
+VEN-00845,United Associates,REG-AS-316397,Assam,5,False
+VEN-00846,Bharat Constructions,REG-CG-979884,Chhattisgarh,7,False
+VEN-00847,Star Developers,REG-JH-652847,Jharkhand,3,False
+VEN-00848,Vishwakarma Constructions,REG-TG-297931,Telangana,5,False
+VEN-00849,Shakti Associates,REG-OD-476501,Odisha,5,False
+VEN-00850,Shakti Infrastructure Ltd,REG-AP-473050,Andhra Pradesh,8,False
+VEN-00851,Metro Infrastructure Ltd,REG-UP-217469,Uttar Pradesh,8,False
+VEN-00852,Green Valley Enterprises,REG-MP-208078,Madhya Pradesh,319,True
+VEN-00853,Om Contractors,REG-GJ-479890,Gujarat,5,False
+VEN-00854,Silver Line Enterprises,REG-AP-542957,Andhra Pradesh,5,False
+VEN-00855,Star Works & Co,REG-UP-253956,Uttar Pradesh,6,False
+VEN-00856,Vishwakarma Enterprises,REG-WB-550861,West Bengal,0,False
+VEN-00857,Elite Infrastructure Ltd,REG-WB-394085,West Bengal,4,False
+VEN-00858,Elite Builders,REG-BR-114218,Bihar,5,False
+VEN-00859,Bharat Works & Co,REG-WB-705633,West Bengal,5,False
+VEN-00860,Vishwakarma Works & Co,REG-PB-903508,Punjab,3,False
+VEN-00861,Green Valley Engineering Works,REG-BR-209800,Bihar,4,False
+VEN-00862,Om Developers,REG-PB-292560,Punjab,9,False
+VEN-00863,Krishna Enterprises,REG-OD-505392,Odisha,5,False
+VEN-00864,Vishwakarma Constructions,REG-PB-706940,Punjab,7,False
+VEN-00865,National Developers,REG-PB-458704,Punjab,6,False
+VEN-00866,Laxmi Developers,REG-JH-632958,Jharkhand,11,False
+VEN-00867,Metro Infra Projects,REG-JH-849895,Jharkhand,9,False
+VEN-00868,Elite Infrastructure Ltd,REG-JH-188661,Jharkhand,5,False
+VEN-00869,Star Contractors,REG-RJ-846456,Rajasthan,10,False
+VEN-00870,Prime Contractors,REG-UP-335092,Uttar Pradesh,3,False
+VEN-00871,Reliable Enterprises,REG-HR-979625,Haryana,2,False
+VEN-00872,Shakti Engineering Works,REG-UP-533201,Uttar Pradesh,9,False
+VEN-00873,Sundar Associates,REG-UP-398744,Uttar Pradesh,2,False
+VEN-00874,Sundar Enterprises,REG-AS-615545,Assam,1,False
+VEN-00875,Metro Contractors,REG-AS-844973,Assam,2,False
+VEN-00876,Shree Sai Works & Co,REG-OD-448473,Odisha,3,False
+VEN-00877,Green Valley Infrastructure Ltd,REG-UP-387371,Uttar Pradesh,5,False
+VEN-00878,Bharat Builders,REG-AS-630037,Assam,11,False
+VEN-00879,New Age Infrastructure Ltd,REG-KA-370742,Karnataka,4,False
+VEN-00880,Metro Constructions,REG-WB-536765,West Bengal,6,False
+VEN-00881,Sundar Infra Projects,REG-HR-674209,Haryana,3,False
+VEN-00882,Trust Builders,REG-JH-413620,Jharkhand,289,True
+VEN-00883,Star Developers,REG-TN-779273,Tamil Nadu,4,False
+VEN-00884,New Age Works & Co,REG-RJ-194385,Rajasthan,3,False
+VEN-00885,Laxmi Enterprises,REG-PB-283353,Punjab,4,False
+VEN-00886,New Age Infrastructure Ltd,REG-JH-216540,Jharkhand,5,False
+VEN-00887,Silver Line Builders,REG-KL-506908,Kerala,3,False
+VEN-00888,Sundar Enterprises,REG-CG-625920,Chhattisgarh,6,False
+VEN-00889,Bharat Engineering Works,REG-PB-514543,Punjab,8,False
+VEN-00890,Trust Contractors,REG-CG-868792,Chhattisgarh,323,True
+VEN-00891,Vishwakarma Infrastructure Ltd,REG-HR-722540,Haryana,2,False
+VEN-00892,Jai Bharat Contractors,REG-MH-696126,Maharashtra,9,False
+VEN-00893,Green Valley Enterprises,REG-RJ-271063,Rajasthan,1,False
+VEN-00894,United Constructions,REG-GJ-927884,Gujarat,5,False
+VEN-00895,Green Valley Developers,REG-HR-849675,Haryana,4,False
+VEN-00896,Shree Sai Engineering Works,REG-AS-746791,Assam,4,False
+VEN-00897,Shakti Constructions,REG-MP-827831,Madhya Pradesh,5,False
+VEN-00898,Star Infra Projects,REG-UP-286940,Uttar Pradesh,8,False
+VEN-00899,Shakti Enterprises,REG-JH-739682,Jharkhand,2,False
+VEN-00900,Star Constructions,REG-UP-507503,Uttar Pradesh,3,False

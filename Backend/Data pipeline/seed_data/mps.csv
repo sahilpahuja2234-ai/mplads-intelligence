@@ -1,0 +1,301 @@
+mp_id,name,house,state,constituency,party,term_start,term_end
+MP-MH-001,Dr. Bharti Yadav,LOK_SABHA,Maharashtra,Nashik,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-MH-002,Er. Arun Bhat,LOK_SABHA,Maharashtra,Nashik,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-MH-003,Er. Nisha Shaikh,LOK_SABHA,Maharashtra,Kolhapur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-MH-004,Shri Usha Nair,LOK_SABHA,Maharashtra,Aurangabad,Pragatishil Manch,2019-06-01,2024-05-31
+MP-MH-005,Dr. Manoj Desai,LOK_SABHA,Maharashtra,Aurangabad,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-MH-006,Dr. Anil Singh,RAJYA_SABHA,Maharashtra,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-MH-007,Shri Meena Thakur,LOK_SABHA,Maharashtra,Thane,Independent,2024-06-01,2029-05-31
+MP-MH-008,Er. Rajesh Iyer,LOK_SABHA,Maharashtra,Nashik,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-MH-009,Shri Arun Thakur,LOK_SABHA,Maharashtra,Nashik,Independent,2024-06-01,2029-05-31
+MP-MH-010,Dr. Manoj Khan,LOK_SABHA,Maharashtra,Kolhapur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-MH-011,Shri Shalini Pandey,LOK_SABHA,Maharashtra,Nashik,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-MH-012,Shri Imran Menon,RAJYA_SABHA,Maharashtra,,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-MH-013,Dr. Vijay Sharma,LOK_SABHA,Maharashtra,Aurangabad,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-UP-001,Dr. Kavita Pillai,LOK_SABHA,Uttar Pradesh,Lucknow,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-UP-002,Er. Mahesh Reddy,LOK_SABHA,Uttar Pradesh,Meerut,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-UP-003,Er. Ramesh Verma,LOK_SABHA,Uttar Pradesh,Lucknow,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-UP-004,Smt. Kavita Thakur,LOK_SABHA,Uttar Pradesh,Meerut,Independent,2024-06-01,2029-05-31
+MP-UP-005,Shri Deepak Choudhary,LOK_SABHA,Uttar Pradesh,Kanpur Nagar,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-UP-006,Smt. Ayesha Patil,RAJYA_SABHA,Uttar Pradesh,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-UP-007,Dr. Mahesh Sharma,LOK_SABHA,Uttar Pradesh,Gorakhpur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-UP-008,Smt. Anil Khan,LOK_SABHA,Uttar Pradesh,Meerut,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-UP-009,Dr. Anil Pandey,LOK_SABHA,Uttar Pradesh,Agra,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-UP-010,Er. Rekha Joshi,LOK_SABHA,Uttar Pradesh,Agra,Pragatishil Manch,2024-06-01,2029-05-31
+MP-UP-011,Dr. Shalini Pillai,LOK_SABHA,Uttar Pradesh,Agra,Pragatishil Manch,2024-06-01,2029-05-31
+MP-UP-012,Er. Sanjay Nair,LOK_SABHA,Uttar Pradesh,Varanasi,Pragatishil Manch,2024-06-01,2029-05-31
+MP-UP-013,Smt. Imran Patil,LOK_SABHA,Uttar Pradesh,Meerut,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-UP-014,Smt. Shalini Pillai,RAJYA_SABHA,Uttar Pradesh,,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-UP-015,Er. Ashok Shaikh,LOK_SABHA,Uttar Pradesh,Agra,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-UP-016,Er. Mahesh Desai,LOK_SABHA,Uttar Pradesh,Kanpur Nagar,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-UP-017,Shri Anil Mehta,LOK_SABHA,Uttar Pradesh,Varanasi,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-UP-018,Dr. Anil Desai,LOK_SABHA,Uttar Pradesh,Varanasi,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-UP-019,Er. Usha Singh,LOK_SABHA,Uttar Pradesh,Meerut,Pragatishil Manch,2019-06-01,2024-05-31
+MP-UP-020,Shri Seema Rao,LOK_SABHA,Uttar Pradesh,Lucknow,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-UP-021,Dr. Lata Reddy,LOK_SABHA,Uttar Pradesh,Gorakhpur,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-UP-022,Shri Lata Iyer,LOK_SABHA,Uttar Pradesh,Varanasi,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-UP-023,Er. Ravindra Rao,RAJYA_SABHA,Uttar Pradesh,,Independent,2024-06-01,2029-05-31
+MP-BR-001,Shri Pooja Iyer,LOK_SABHA,Bihar,Gaya,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-BR-002,Shri Prakash Patil,RAJYA_SABHA,Bihar,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-BR-003,Dr. Usha Reddy,NOMINATED,Bihar,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-BR-004,Shri Naveen Bhat,LOK_SABHA,Bihar,Muzaffarpur,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-BR-005,Dr. Nisha Singh,RAJYA_SABHA,Bihar,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-BR-006,Shri Usha Mehta,LOK_SABHA,Bihar,Darbhanga,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-BR-007,Dr. Bharti Singh,NOMINATED,Bihar,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-BR-008,Er. Suresh Pandey,LOK_SABHA,Bihar,Gaya,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-BR-009,Dr. Naveen Naidu,LOK_SABHA,Bihar,Darbhanga,Independent,2019-06-01,2024-05-31
+MP-BR-010,Shri Farhan Khan,LOK_SABHA,Bihar,Muzaffarpur,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-BR-011,Er. Vikram Nair,LOK_SABHA,Bihar,Patna,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-WB-001,Smt. Naveen Gupta,LOK_SABHA,West Bengal,Howrah,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-WB-002,Er. Anil Iyer,LOK_SABHA,West Bengal,Darjeeling,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-WB-003,Dr. Manoj Iyer,RAJYA_SABHA,West Bengal,,Pragatishil Manch,2019-06-01,2024-05-31
+MP-WB-004,Er. Vikram Verma,LOK_SABHA,West Bengal,Murshidabad,Independent,2024-06-01,2029-05-31
+MP-WB-005,Er. Kavita Shaikh,NOMINATED,West Bengal,,Independent,2024-06-01,2029-05-31
+MP-WB-006,Shri Ayesha Shaikh,RAJYA_SABHA,West Bengal,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-WB-007,Smt. Geeta Kulkarni,LOK_SABHA,West Bengal,Nadia,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-WB-008,Smt. Farhan Menon,LOK_SABHA,West Bengal,Murshidabad,Independent,2019-06-01,2024-05-31
+MP-WB-009,Dr. Prakash Kulkarni,RAJYA_SABHA,West Bengal,,Independent,2019-06-01,2024-05-31
+MP-WB-010,Smt. Imran Desai,LOK_SABHA,West Bengal,Kolkata,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-WB-011,Er. Vijay Sharma,LOK_SABHA,West Bengal,Kolkata,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-WB-012,Dr. Sunita Pandey,RAJYA_SABHA,West Bengal,,Independent,2019-06-01,2024-05-31
+MP-WB-013,Er. Ravindra Rao,LOK_SABHA,West Bengal,Darjeeling,Independent,2019-06-01,2024-05-31
+MP-WB-014,Er. Sunita Bhat,LOK_SABHA,West Bengal,Nadia,Independent,2024-06-01,2029-05-31
+MP-WB-015,Dr. Shalini Naidu,RAJYA_SABHA,West Bengal,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-WB-016,Smt. Vijay Sharma,RAJYA_SABHA,West Bengal,,Independent,2024-06-01,2029-05-31
+MP-WB-017,Smt. Sanjay Chauhan,RAJYA_SABHA,West Bengal,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-WB-018,Smt. Vijay Shaikh,LOK_SABHA,West Bengal,Nadia,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-TN-001,Smt. Bharti Bhat,LOK_SABHA,Tamil Nadu,Madurai,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TN-002,Smt. Meena Choudhary,RAJYA_SABHA,Tamil Nadu,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-TN-003,Dr. Ashok Kulkarni,LOK_SABHA,Tamil Nadu,Tiruchirappalli,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TN-004,Dr. Anil Naidu,RAJYA_SABHA,Tamil Nadu,,Pragatishil Manch,2019-06-01,2024-05-31
+MP-TN-005,Er. Usha Thakur,LOK_SABHA,Tamil Nadu,Coimbatore,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TN-006,Er. Ramesh Iyer,LOK_SABHA,Tamil Nadu,Tiruchirappalli,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-TN-007,Smt. Meena Yadav,LOK_SABHA,Tamil Nadu,Madurai,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-TN-008,Smt. Arun Rao,LOK_SABHA,Tamil Nadu,Coimbatore,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-TN-009,Smt. Sunita Joshi,LOK_SABHA,Tamil Nadu,Madurai,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-TN-010,Dr. Shalini Reddy,RAJYA_SABHA,Tamil Nadu,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-TN-011,Er. Kavita Naidu,RAJYA_SABHA,Tamil Nadu,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-TN-012,Dr. Kavita Sharma,LOK_SABHA,Tamil Nadu,Salem,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-TN-013,Smt. Kiran Reddy,RAJYA_SABHA,Tamil Nadu,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-TN-014,Smt. Rekha Rao,LOK_SABHA,Tamil Nadu,Madurai,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TN-015,Shri Prakash Choudhary,LOK_SABHA,Tamil Nadu,Madurai,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TN-016,Smt. Deepak Mehta,LOK_SABHA,Tamil Nadu,Tiruchirappalli,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-TN-017,Er. Pooja Nair,LOK_SABHA,Tamil Nadu,Salem,Independent,2019-06-01,2024-05-31
+MP-TN-018,Shri Ramesh Choudhary,LOK_SABHA,Tamil Nadu,Chennai,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-TN-019,Smt. Nisha Iyer,RAJYA_SABHA,Tamil Nadu,,Independent,2019-06-01,2024-05-31
+MP-TN-020,Dr. Shalini Verma,LOK_SABHA,Tamil Nadu,Tiruchirappalli,Independent,2019-06-01,2024-05-31
+MP-TN-021,Er. Pooja Desai,RAJYA_SABHA,Tamil Nadu,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KA-001,Shri Kavita Gupta,LOK_SABHA,Karnataka,Bengaluru Urban,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KA-002,Dr. Deepak Gupta,LOK_SABHA,Karnataka,Hubballi-Dharwad,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KA-003,Shri Sunita Shaikh,LOK_SABHA,Karnataka,Hubballi-Dharwad,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KA-004,Smt. Bharti Mehta,RAJYA_SABHA,Karnataka,,Independent,2019-06-01,2024-05-31
+MP-KA-005,Er. Geeta Joshi,LOK_SABHA,Karnataka,Mangaluru,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KA-006,Er. Pooja Chauhan,NOMINATED,Karnataka,,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-KA-007,Smt. Anil Nair,LOK_SABHA,Karnataka,Mangaluru,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KA-008,Dr. Ayesha Pillai,LOK_SABHA,Karnataka,Mysuru,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-KA-009,Smt. Ayesha Khan,LOK_SABHA,Karnataka,Belagavi,Pragatishil Manch,2024-06-01,2029-05-31
+MP-KA-010,Smt. Seema Choudhary,LOK_SABHA,Karnataka,Belagavi,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KA-011,Shri Vijay Choudhary,LOK_SABHA,Karnataka,Mysuru,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KA-012,Shri Sanjay Gupta,LOK_SABHA,Karnataka,Belagavi,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KA-013,Dr. Imran Bhat,LOK_SABHA,Karnataka,Belagavi,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-KA-014,Er. Deepak Patil,NOMINATED,Karnataka,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KA-015,Er. Manoj Singh,LOK_SABHA,Karnataka,Bengaluru Urban,Pragatishil Manch,2024-06-01,2029-05-31
+MP-KA-016,Er. Vijay Joshi,LOK_SABHA,Karnataka,Belagavi,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KA-017,Dr. Rajesh Bhat,LOK_SABHA,Karnataka,Belagavi,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KA-018,Shri Rekha Nair,RAJYA_SABHA,Karnataka,,Independent,2019-06-01,2024-05-31
+MP-KA-019,Smt. Rekha Choudhary,RAJYA_SABHA,Karnataka,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KA-020,Dr. Ramesh Shaikh,LOK_SABHA,Karnataka,Mangaluru,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-RJ-001,Er. Lata Patil,RAJYA_SABHA,Rajasthan,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-RJ-002,Smt. Manoj Verma,RAJYA_SABHA,Rajasthan,,Independent,2024-06-01,2029-05-31
+MP-RJ-003,Dr. Rekha Gupta,LOK_SABHA,Rajasthan,Udaipur,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-RJ-004,Smt. Sanjay Naidu,RAJYA_SABHA,Rajasthan,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-RJ-005,Dr. Kavita Bhat,LOK_SABHA,Rajasthan,Jaipur,Pragatishil Manch,2019-06-01,2024-05-31
+MP-RJ-006,Shri Pooja Naidu,NOMINATED,Rajasthan,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-RJ-007,Shri Rekha Pillai,NOMINATED,Rajasthan,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-RJ-008,Shri Kiran Shaikh,LOK_SABHA,Rajasthan,Jodhpur,Pragatishil Manch,2024-06-01,2029-05-31
+MP-RJ-009,Smt. Imran Pandey,RAJYA_SABHA,Rajasthan,,Independent,2019-06-01,2024-05-31
+MP-RJ-010,Shri Meena Mehta,RAJYA_SABHA,Rajasthan,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-RJ-011,Dr. Deepak Nair,LOK_SABHA,Rajasthan,Kota,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-RJ-012,Smt. Ashok Menon,LOK_SABHA,Rajasthan,Jaipur,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-RJ-013,Smt. Naveen Sharma,LOK_SABHA,Rajasthan,Bikaner,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-RJ-014,Dr. Imran Thakur,LOK_SABHA,Rajasthan,Jodhpur,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-RJ-015,Er. Lata Patil,LOK_SABHA,Rajasthan,Udaipur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-RJ-016,Er. Nisha Patil,LOK_SABHA,Rajasthan,Kota,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-RJ-017,Dr. Vijay Verma,RAJYA_SABHA,Rajasthan,,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-RJ-018,Er. Ramesh Nair,RAJYA_SABHA,Rajasthan,,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-RJ-019,Smt. Kavita Pillai,LOK_SABHA,Rajasthan,Jodhpur,Pragatishil Manch,2024-06-01,2029-05-31
+MP-RJ-020,Er. Lata Sharma,RAJYA_SABHA,Rajasthan,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-RJ-021,Er. Bharti Iyer,LOK_SABHA,Rajasthan,Udaipur,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-GJ-001,Dr. Seema Joshi,LOK_SABHA,Gujarat,Surat,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-GJ-002,Er. Anil Khan,LOK_SABHA,Gujarat,Ahmedabad,Pragatishil Manch,2019-06-01,2024-05-31
+MP-GJ-003,Er. Vikram Yadav,LOK_SABHA,Gujarat,Vadodara,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-GJ-004,Er. Ayesha Rao,LOK_SABHA,Gujarat,Vadodara,Independent,2019-06-01,2024-05-31
+MP-GJ-005,Shri Mahesh Verma,LOK_SABHA,Gujarat,Bhavnagar,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-GJ-006,Er. Deepak Rao,RAJYA_SABHA,Gujarat,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-GJ-007,Er. Vijay Choudhary,LOK_SABHA,Gujarat,Vadodara,Pragatishil Manch,2024-06-01,2029-05-31
+MP-GJ-008,Er. Shalini Patil,LOK_SABHA,Gujarat,Surat,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-GJ-009,Dr. Mahesh Desai,LOK_SABHA,Gujarat,Bhavnagar,Independent,2019-06-01,2024-05-31
+MP-GJ-010,Er. Kiran Sharma,LOK_SABHA,Gujarat,Surat,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-GJ-011,Smt. Sunita Yadav,RAJYA_SABHA,Gujarat,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-GJ-012,Smt. Imran Choudhary,LOK_SABHA,Gujarat,Rajkot,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-GJ-013,Smt. Manoj Shaikh,NOMINATED,Gujarat,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-GJ-014,Smt. Rajesh Sharma,LOK_SABHA,Gujarat,Vadodara,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-GJ-015,Smt. Bharti Thakur,LOK_SABHA,Gujarat,Vadodara,Independent,2019-06-01,2024-05-31
+MP-GJ-016,Dr. Vijay Choudhary,LOK_SABHA,Gujarat,Vadodara,Pragatishil Manch,2024-06-01,2029-05-31
+MP-GJ-017,Dr. Ayesha Menon,LOK_SABHA,Gujarat,Rajkot,Independent,2024-06-01,2029-05-31
+MP-GJ-018,Dr. Ravindra Chauhan,LOK_SABHA,Gujarat,Bhavnagar,Pragatishil Manch,2019-06-01,2024-05-31
+MP-GJ-019,Dr. Kiran Kulkarni,RAJYA_SABHA,Gujarat,,Pragatishil Manch,2019-06-01,2024-05-31
+MP-GJ-020,Shri Anita Joshi,LOK_SABHA,Gujarat,Surat,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-MP-001,Dr. Mahesh Desai,LOK_SABHA,Madhya Pradesh,Gwalior,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-MP-002,Er. Meena Shaikh,LOK_SABHA,Madhya Pradesh,Gwalior,Independent,2019-06-01,2024-05-31
+MP-MP-003,Shri Manoj Reddy,LOK_SABHA,Madhya Pradesh,Ujjain,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-MP-004,Smt. Pooja Desai,LOK_SABHA,Madhya Pradesh,Bhopal,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-MP-005,Shri Shalini Rao,LOK_SABHA,Madhya Pradesh,Gwalior,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-MP-006,Shri Prakash Verma,LOK_SABHA,Madhya Pradesh,Gwalior,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-MP-007,Shri Rekha Bhat,LOK_SABHA,Madhya Pradesh,Jabalpur,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-MP-008,Shri Ayesha Menon,LOK_SABHA,Madhya Pradesh,Jabalpur,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-MP-009,Dr. Suresh Rao,RAJYA_SABHA,Madhya Pradesh,,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-MP-010,Shri Mahesh Yadav,RAJYA_SABHA,Madhya Pradesh,,Independent,2019-06-01,2024-05-31
+MP-MP-011,Dr. Ashok Menon,LOK_SABHA,Madhya Pradesh,Bhopal,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-MP-012,Shri Pooja Menon,LOK_SABHA,Madhya Pradesh,Indore,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-MP-013,Er. Kiran Shaikh,RAJYA_SABHA,Madhya Pradesh,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-MP-014,Smt. Farhan Nair,NOMINATED,Madhya Pradesh,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-MP-015,Dr. Nisha Sharma,RAJYA_SABHA,Madhya Pradesh,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-MP-016,Er. Sanjay Chauhan,LOK_SABHA,Madhya Pradesh,Indore,Pragatishil Manch,2024-06-01,2029-05-31
+MP-MP-017,Dr. Vikram Sharma,LOK_SABHA,Madhya Pradesh,Ujjain,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-MP-018,Dr. Vikram Pillai,LOK_SABHA,Madhya Pradesh,Ujjain,Pragatishil Manch,2024-06-01,2029-05-31
+MP-AP-001,Shri Seema Choudhary,LOK_SABHA,Andhra Pradesh,Visakhapatnam,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AP-002,Smt. Kavita Singh,LOK_SABHA,Andhra Pradesh,Vijayawada,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AP-003,Smt. Geeta Kulkarni,LOK_SABHA,Andhra Pradesh,Vijayawada,Independent,2024-06-01,2029-05-31
+MP-AP-004,Shri Seema Naidu,LOK_SABHA,Andhra Pradesh,Vijayawada,Pragatishil Manch,2019-06-01,2024-05-31
+MP-AP-005,Er. Arun Iyer,LOK_SABHA,Andhra Pradesh,Guntur,Pragatishil Manch,2024-06-01,2029-05-31
+MP-AP-006,Shri Anita Joshi,LOK_SABHA,Andhra Pradesh,Guntur,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AP-007,Dr. Seema Iyer,LOK_SABHA,Andhra Pradesh,Visakhapatnam,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AP-008,Er. Meena Iyer,LOK_SABHA,Andhra Pradesh,Tirupati,Independent,2019-06-01,2024-05-31
+MP-AP-009,Shri Seema Iyer,NOMINATED,Andhra Pradesh,,Independent,2024-06-01,2029-05-31
+MP-AP-010,Shri Lata Iyer,LOK_SABHA,Andhra Pradesh,Vijayawada,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-AP-011,Smt. Nisha Joshi,LOK_SABHA,Andhra Pradesh,Guntur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-AP-012,Dr. Rekha Reddy,RAJYA_SABHA,Andhra Pradesh,,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AP-013,Dr. Pooja Bhat,RAJYA_SABHA,Andhra Pradesh,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-AP-014,Shri Vikram Naidu,LOK_SABHA,Andhra Pradesh,Visakhapatnam,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-AP-015,Er. Deepak Singh,LOK_SABHA,Andhra Pradesh,Guntur,Independent,2019-06-01,2024-05-31
+MP-AP-016,Shri Ashok Singh,LOK_SABHA,Andhra Pradesh,Vijayawada,Independent,2019-06-01,2024-05-31
+MP-AP-017,Dr. Shalini Menon,RAJYA_SABHA,Andhra Pradesh,,Independent,2024-06-01,2029-05-31
+MP-AP-018,Dr. Arun Singh,RAJYA_SABHA,Andhra Pradesh,,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AP-019,Er. Anil Pandey,LOK_SABHA,Andhra Pradesh,Guntur,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TG-001,Er. Lata Menon,LOK_SABHA,Telangana,Karimnagar,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TG-002,Er. Ravindra Nair,LOK_SABHA,Telangana,Karimnagar,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-TG-003,Smt. Lata Iyer,LOK_SABHA,Telangana,Warangal,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-TG-004,Smt. Sanjay Pillai,LOK_SABHA,Telangana,Karimnagar,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-TG-005,Dr. Ramesh Singh,LOK_SABHA,Telangana,Karimnagar,Pragatishil Manch,2024-06-01,2029-05-31
+MP-TG-006,Er. Farhan Pillai,LOK_SABHA,Telangana,Karimnagar,Pragatishil Manch,2024-06-01,2029-05-31
+MP-TG-007,Shri Lata Shaikh,RAJYA_SABHA,Telangana,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-TG-008,Er. Suresh Verma,LOK_SABHA,Telangana,Warangal,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-TG-009,Er. Vijay Kulkarni,LOK_SABHA,Telangana,Karimnagar,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-TG-010,Shri Anil Yadav,LOK_SABHA,Telangana,Warangal,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KL-001,Dr. Sunita Shaikh,LOK_SABHA,Kerala,Thiruvananthapuram,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-KL-002,Er. Sanjay Menon,LOK_SABHA,Kerala,Kozhikode,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KL-003,Shri Vikram Iyer,LOK_SABHA,Kerala,Thiruvananthapuram,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KL-004,Shri Ashok Chauhan,LOK_SABHA,Kerala,Thiruvananthapuram,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KL-005,Shri Usha Menon,LOK_SABHA,Kerala,Kochi,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-KL-006,Dr. Naveen Mehta,LOK_SABHA,Kerala,Thrissur,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-KL-007,Shri Mahesh Pillai,LOK_SABHA,Kerala,Kochi,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-KL-008,Smt. Ramesh Sharma,LOK_SABHA,Kerala,Thrissur,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-KL-009,Smt. Anil Khan,LOK_SABHA,Kerala,Kozhikode,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-KL-010,Smt. Naveen Naidu,RAJYA_SABHA,Kerala,,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-KL-011,Er. Arun Chauhan,LOK_SABHA,Kerala,Thrissur,Independent,2024-06-01,2029-05-31
+MP-PB-001,Smt. Vikram Iyer,LOK_SABHA,Punjab,Patiala,Pragatishil Manch,2019-06-01,2024-05-31
+MP-PB-002,Dr. Naveen Patil,LOK_SABHA,Punjab,Amritsar,Pragatishil Manch,2024-06-01,2029-05-31
+MP-PB-003,Er. Anil Rao,NOMINATED,Punjab,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-PB-004,Shri Ramesh Naidu,LOK_SABHA,Punjab,Patiala,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-PB-005,Er. Anita Iyer,LOK_SABHA,Punjab,Patiala,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-PB-006,Dr. Ashok Mehta,RAJYA_SABHA,Punjab,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-PB-007,Smt. Anita Khan,LOK_SABHA,Punjab,Jalandhar,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-PB-008,Smt. Ramesh Pillai,LOK_SABHA,Punjab,Patiala,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-PB-009,Dr. Naveen Khan,LOK_SABHA,Punjab,Patiala,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-PB-010,Smt. Mahesh Thakur,LOK_SABHA,Punjab,Amritsar,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-PB-011,Shri Imran Rao,LOK_SABHA,Punjab,Patiala,Independent,2024-06-01,2029-05-31
+MP-PB-012,Shri Naveen Menon,LOK_SABHA,Punjab,Jalandhar,Independent,2024-06-01,2029-05-31
+MP-PB-013,Shri Bharti Shaikh,LOK_SABHA,Punjab,Amritsar,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-HR-001,Smt. Mahesh Gupta,RAJYA_SABHA,Haryana,,Independent,2024-06-01,2029-05-31
+MP-HR-002,Shri Meena Naidu,LOK_SABHA,Haryana,Karnal,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-HR-003,Er. Bharti Shaikh,LOK_SABHA,Haryana,Karnal,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-HR-004,Shri Ayesha Rao,LOK_SABHA,Haryana,Faridabad,Pragatishil Manch,2019-06-01,2024-05-31
+MP-HR-005,Smt. Pooja Verma,LOK_SABHA,Haryana,Karnal,Pragatishil Manch,2024-06-01,2029-05-31
+MP-HR-006,Smt. Ramesh Shaikh,LOK_SABHA,Haryana,Gurugram,Independent,2024-06-01,2029-05-31
+MP-HR-007,Shri Mahesh Rao,LOK_SABHA,Haryana,Karnal,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-HR-008,Shri Manoj Thakur,LOK_SABHA,Haryana,Gurugram,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-HR-009,Er. Usha Rao,RAJYA_SABHA,Haryana,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-HR-010,Er. Sanjay Sharma,LOK_SABHA,Haryana,Faridabad,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-HR-011,Dr. Naveen Patil,NOMINATED,Haryana,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-HR-012,Shri Farhan Pillai,LOK_SABHA,Haryana,Karnal,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-HR-013,Dr. Ramesh Reddy,LOK_SABHA,Haryana,Faridabad,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-HR-014,Er. Rajesh Shaikh,RAJYA_SABHA,Haryana,,Pragatishil Manch,2019-06-01,2024-05-31
+MP-HR-015,Dr. Anita Chauhan,RAJYA_SABHA,Haryana,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-OD-001,Shri Arun Rao,LOK_SABHA,Odisha,Puri,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-OD-002,Er. Farhan Sharma,RAJYA_SABHA,Odisha,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-OD-003,Er. Ashok Nair,LOK_SABHA,Odisha,Bhubaneswar,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-OD-004,Shri Shalini Verma,LOK_SABHA,Odisha,Sambalpur,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-OD-005,Er. Ravindra Desai,LOK_SABHA,Odisha,Bhubaneswar,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-OD-006,Dr. Ayesha Pandey,RAJYA_SABHA,Odisha,,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-OD-007,Er. Anita Choudhary,RAJYA_SABHA,Odisha,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-OD-008,Smt. Shalini Desai,RAJYA_SABHA,Odisha,,Independent,2024-06-01,2029-05-31
+MP-OD-009,Shri Kiran Pillai,LOK_SABHA,Odisha,Cuttack,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-OD-010,Shri Vikram Pillai,LOK_SABHA,Odisha,Puri,Independent,2024-06-01,2029-05-31
+MP-OD-011,Er. Geeta Shaikh,LOK_SABHA,Odisha,Bhubaneswar,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-OD-012,Shri Ashok Yadav,LOK_SABHA,Odisha,Cuttack,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-OD-013,Smt. Anil Thakur,LOK_SABHA,Odisha,Sambalpur,Pragatishil Manch,2024-06-01,2029-05-31
+MP-OD-014,Er. Ramesh Khan,LOK_SABHA,Odisha,Sambalpur,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-OD-015,Smt. Ashok Yadav,RAJYA_SABHA,Odisha,,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-OD-016,Dr. Arun Thakur,LOK_SABHA,Odisha,Bhubaneswar,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-OD-017,Shri Prakash Kulkarni,LOK_SABHA,Odisha,Puri,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-OD-018,Er. Bharti Gupta,RAJYA_SABHA,Odisha,,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-OD-019,Smt. Mahesh Naidu,LOK_SABHA,Odisha,Cuttack,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-OD-020,Er. Bharti Sharma,LOK_SABHA,Odisha,Puri,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-OD-021,Smt. Ashok Gupta,LOK_SABHA,Odisha,Puri,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-OD-022,Smt. Usha Kulkarni,LOK_SABHA,Odisha,Sambalpur,Independent,2019-06-01,2024-05-31
+MP-OD-023,Er. Sanjay Sharma,LOK_SABHA,Odisha,Bhubaneswar,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-OD-024,Er. Vikram Yadav,RAJYA_SABHA,Odisha,,Pragatishil Manch,2019-06-01,2024-05-31
+MP-AS-001,Shri Imran Nair,LOK_SABHA,Assam,Silchar,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AS-002,Smt. Prakash Reddy,LOK_SABHA,Assam,Guwahati,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-AS-003,Shri Rekha Singh,RAJYA_SABHA,Assam,,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AS-004,Er. Usha Desai,LOK_SABHA,Assam,Silchar,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-AS-005,Er. Pooja Patil,LOK_SABHA,Assam,Silchar,Independent,2019-06-01,2024-05-31
+MP-AS-006,Dr. Nisha Shaikh,LOK_SABHA,Assam,Silchar,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AS-007,Dr. Ramesh Rao,LOK_SABHA,Assam,Jorhat,Independent,2024-06-01,2029-05-31
+MP-AS-008,Smt. Kavita Bhat,LOK_SABHA,Assam,Guwahati,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-AS-009,Smt. Kiran Gupta,LOK_SABHA,Assam,Silchar,Pragatishil Manch,2024-06-01,2029-05-31
+MP-AS-010,Er. Rekha Bhat,LOK_SABHA,Assam,Dibrugarh,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AS-011,Dr. Meena Joshi,LOK_SABHA,Assam,Jorhat,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-AS-012,Shri Seema Yadav,LOK_SABHA,Assam,Dibrugarh,Independent,2019-06-01,2024-05-31
+MP-AS-013,Shri Kavita Pandey,LOK_SABHA,Assam,Jorhat,Pragatishil Manch,2019-06-01,2024-05-31
+MP-AS-014,Smt. Farhan Shaikh,LOK_SABHA,Assam,Jorhat,Independent,2024-06-01,2029-05-31
+MP-AS-015,Shri Lata Reddy,LOK_SABHA,Assam,Guwahati,Pragatishil Manch,2024-06-01,2029-05-31
+MP-AS-016,Er. Ravindra Choudhary,LOK_SABHA,Assam,Silchar,Independent,2019-06-01,2024-05-31
+MP-AS-017,Dr. Usha Joshi,LOK_SABHA,Assam,Jorhat,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-AS-018,Dr. Arun Menon,LOK_SABHA,Assam,Silchar,Bharat Nirman Morcha,2024-06-01,2029-05-31
+MP-AS-019,Smt. Farhan Shaikh,LOK_SABHA,Assam,Jorhat,Independent,2019-06-01,2024-05-31
+MP-JH-001,Er. Lata Pillai,RAJYA_SABHA,Jharkhand,,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-JH-002,Dr. Bharti Choudhary,RAJYA_SABHA,Jharkhand,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-JH-003,Shri Manoj Patil,LOK_SABHA,Jharkhand,Dhanbad,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-JH-004,Dr. Ashok Bhat,LOK_SABHA,Jharkhand,Dhanbad,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-JH-005,Er. Bharti Choudhary,LOK_SABHA,Jharkhand,Dhanbad,Bharat Nirman Morcha,2019-06-01,2024-05-31
+MP-JH-006,Smt. Rekha Pillai,LOK_SABHA,Jharkhand,Ranchi,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-JH-007,Smt. Naveen Bhat,LOK_SABHA,Jharkhand,Jamshedpur,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-JH-008,Smt. Bharti Mehta,LOK_SABHA,Jharkhand,Bokaro,Rashtriya Vikas Dal,2019-06-01,2024-05-31
+MP-JH-009,Smt. Ravindra Chauhan,RAJYA_SABHA,Jharkhand,,Pragatishil Manch,2024-06-01,2029-05-31
+MP-CG-001,Er. Deepak Reddy,RAJYA_SABHA,Chhattisgarh,,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-CG-002,Dr. Nisha Bhat,LOK_SABHA,Chhattisgarh,Durg,Jan Kalyan Party,2019-06-01,2024-05-31
+MP-CG-003,Smt. Sanjay Gupta,NOMINATED,Chhattisgarh,,Rashtriya Vikas Dal,2024-06-01,2029-05-31
+MP-CG-004,Shri Ashok Bhat,LOK_SABHA,Chhattisgarh,Korba,Pragatishil Manch,2019-06-01,2024-05-31
+MP-CG-005,Dr. Ramesh Nair,LOK_SABHA,Chhattisgarh,Bilaspur,Independent,2024-06-01,2029-05-31
+MP-CG-006,Shri Geeta Joshi,LOK_SABHA,Chhattisgarh,Durg,Pragatishil Manch,2024-06-01,2029-05-31
+MP-CG-007,Shri Kiran Yadav,LOK_SABHA,Chhattisgarh,Durg,Loktantrik Ekta Party,2019-06-01,2024-05-31
+MP-CG-008,Shri Pooja Iyer,LOK_SABHA,Chhattisgarh,Raipur,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-CG-009,Shri Arun Shaikh,LOK_SABHA,Chhattisgarh,Raipur,Pragatishil Manch,2024-06-01,2029-05-31
+MP-CG-010,Smt. Mahesh Singh,LOK_SABHA,Chhattisgarh,Korba,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-CG-011,Smt. Nisha Sharma,LOK_SABHA,Chhattisgarh,Durg,Independent,2024-06-01,2029-05-31
+MP-CG-012,Shri Nisha Thakur,LOK_SABHA,Chhattisgarh,Korba,Jan Kalyan Party,2024-06-01,2029-05-31
+MP-CG-013,Dr. Manoj Mehta,LOK_SABHA,Chhattisgarh,Raipur,Loktantrik Ekta Party,2024-06-01,2029-05-31
+MP-CG-014,Dr. Seema Nair,RAJYA_SABHA,Chhattisgarh,,Independent,2019-06-01,2024-05-31
+MP-CG-015,Dr. Arun Kulkarni,LOK_SABHA,Chhattisgarh,Korba,Independent,2019-06-01,2024-05-31

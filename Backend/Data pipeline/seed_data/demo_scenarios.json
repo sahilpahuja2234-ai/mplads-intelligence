@@ -1,0 +1,55 @@
+{
+  "scenarios": [
+    {
+      "scenario_id": "ghost-project",
+      "title": "The Ghost Project",
+      "narrative": "A sanctioned drinking-water project shows full expenditure and payment recorded, but no completion report has been filed and its GPS coordinates do not match the claimed village.",
+      "highlight_project_ids": [
+        "MPLADS-BR-2024-00545"
+      ]
+    },
+    {
+      "scenario_id": "copy-paste-contractor",
+      "title": "The Copy-Paste Contractor",
+      "narrative": "Three 'different' road projects across two states share a near-identical work description and the same vendor.",
+      "highlight_project_ids": [
+        "MPLADS-MH-2023-00523",
+        "MPLADS-MH-2023-00524",
+        "MPLADS-MP-2023-00503"
+      ]
+    },
+    {
+      "scenario_id": "election-rush",
+      "title": "The Election-Season Rush",
+      "narrative": "A visible spike in sanctions and expenditure in the 60 days before a known election date, most with incomplete utilization certificate filings.",
+      "highlight_project_ids": [
+        "MPLADS-AP-2019-00025",
+        "MPLADS-AP-2020-00155",
+        "MPLADS-AP-2020-00246",
+        "MPLADS-AP-2021-00170",
+        "MPLADS-AP-2022-00147"
+      ]
+    },
+    {
+      "scenario_id": "serial-delayer",
+      "title": "The Serial Delayer",
+      "narrative": "One executing agency (Bhavnagar Rural Development Agency (Special Cell)) is responsible for a disproportionate share of delayed projects in its state.",
+      "highlight_project_ids": [
+        "MPLADS-GJ-2019-00006",
+        "MPLADS-GJ-2019-00037",
+        "MPLADS-GJ-2019-00155",
+        "MPLADS-GJ-2019-00556",
+        "MPLADS-GJ-2020-00036",
+        "MPLADS-GJ-2020-00059"
+      ]
+    },
+    {
+      "scenario_id": "quiet-overrun",
+      "title": "The Quiet Overrun",
+      "narrative": "A project's expenditure creeps past its sanctioned amount in small increments across many small 'released' updates rather than one obvious jump.",
+      "highlight_project_ids": [
+        "MPLADS-KA-2022-00522"
+      ]
+    }
+  ]
+}
